@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="1bd808e7-4555-4f56-8a98-a7df545f7a66" name="osias@OSIAS-PC 2009-11-17 18:42:33" runUser="QUALIDATA\osias" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+  <TestRunConfiguration name="Default Run Configuration" id="efb994de-13a4-4767-877c-5a40fbaa10f6">
+    <Deployment runDeploymentRoot="D:\_GuitarMonics\svn-guitarmonics\trunk\Fontes\SongEditor\TestResults\osias_OSIAS-PC 2009-11-17 18_42_33">
+      <DeploymentItem filename="C:\Program Files (x86)\NUnit 2.5.1\bin\net-1.1\framework\nunit.framework.dll" />
+    </Deployment>
+    <Hosts skipUnhostableTests="false" />
+    <TestTypeSpecific />
+  </TestRunConfiguration>
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="1" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <Times creation="2009-11-17T18:42:33.0040426-02:00" queuing="2009-11-17T18:42:33.9160426-02:00" start="2009-11-17T18:42:34.0740426-02:00" finish="2009-11-17T18:42:34.3600426-02:00" />
+  <TestDefinitions>
+    <NUnitTestElement name="MessagesReturnedWhenCheckingFileVersion" storage="d:\_guitarmonics\svn-guitarmonics\trunk\fontes\songeditor\guitarproimport.tests\bin\debug\guitarproimport.tests.dll" id="b9e19004-44f9-aafe-6ec5-684cfb351353">
+      <Css projectStructure="" iteration="" />
+      <Owners>
+        <Owner name="" />
+      </Owners>
+      <Execution id="770aa8eb-a25f-491d-a82d-78ad7d7c0527" />
+    </NUnitTestElement>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="b9e19004-44f9-aafe-6ec5-684cfb351353" executionId="770aa8eb-a25f-491d-a82d-78ad7d7c0527" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <TestResult executionId="770aa8eb-a25f-491d-a82d-78ad7d7c0527" testId="b9e19004-44f9-aafe-6ec5-684cfb351353" testName="MessagesReturnedWhenCheckingFileVersion" computerName="OSIAS-PC" duration="00:00:00.0575754" startTime="2009-11-17T18:42:34.1020426-02:00" endTime="2009-11-17T18:42:34.3170426-02:00" testType="d6af2cae-ad69-4f6b-94e9-14e2609e2389" outcome="Error" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d">
+      <Output>
+        <ErrorInfo>
+          <Message>No method found: GuitarProImport.Tests.ImportTests, GuitarProImport.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null, MessagesReturnedWhenCheckingFileVersion</Message>
+        </ErrorInfo>
+      </Output>
+    </TestResult>
+  </Results>
+</TestRun>

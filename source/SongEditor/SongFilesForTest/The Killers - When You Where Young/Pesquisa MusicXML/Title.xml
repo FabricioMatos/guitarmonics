@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE score-partwise PUBLIC "-//Recordare//DTD MusicXML 1.0 Partwise//EN" "/musicxml/partwise.dtd">
+<score-partwise>
+	<work><work-title>Title</work-title>
+	</work>
+	<identification><creator type="artist">Artist</creator>
+		<encoding><software>Guitar Pro 5</software>
+			<encoding-description>MusicXML 1.0</encoding-description>
+		</encoding>
+		<miscellaneous><miscellaneous-field name="album">Album</miscellaneous-field>
+			<miscellaneous-field name="subtitle">Subtitle</miscellaneous-field>
+		</miscellaneous>
+	</identification>
+	<part-list><score-part id="P1"><part-name>Track 1</part-name>
+			<score-instrument id="P1-I1"><instrument-name></instrument-name>
+			</score-instrument>
+			<midi-instrument id="P1-I1"><midi-channel>1</midi-channel>
+				<midi-program>25</midi-program>
+			</midi-instrument>
+		</score-part>
+	</part-list>
+	<part id="P1">
+		<measure number="1">
+			<attributes><divisions>2</divisions>
+				<key><fifths>0</fifths>
+					<mode>major</mode>
+				</key>
+				<time><beats>4</beats>
+					<beat-type>4</beat-type>
+				</time>
+				<clef><sign>TAB</sign>
+					<line>5</line>
+				</clef>
+				<staff-details><staff-lines>6</staff-lines>
+					<staff-tuning line="6"><tuning-step>E</tuning-step>
+						<tuning-octave>5</tuning-octave>
+					</staff-tuning>
+					<staff-tuning line="5"><tuning-step>B</tuning-step>
+						<tuning-octave>4</tuning-octave>
+					</staff-tuning>
+					<staff-tuning line="4"><tuning-step>G</tuning-step>
+						<tuning-octave>4</tuning-octave>
+					</staff-tuning>
+					<staff-tuning line="3"><tuning-step>D</tuning-step>
+						<tuning-octave>4</tuning-octave>
+					</staff-tuning>
+					<staff-tuning line="2"><tuning-step>A</tuning-step>
+						<tuning-octave>3</tuning-octave>
+					</staff-tuning>
+					<staff-tuning line="1"><tuning-step>E</tuning-step>
+						<tuning-octave>3</tuning-octave>
+					</staff-tuning>
+				</staff-details>
+			</attributes>
+			<sound pan="8" tempo="120"></sound>
+			<barline location="left"><bar-style>heavy-light</bar-style>
+			</barline>
+			<note><pitch><step>C</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<notations><dynamics><f></f>
+					</dynamics>
+					<technical><string>5</string>
+						<fret>3</fret>
+					</technical>
+				</notations>
+			</note>
+			<note><pitch><step>C</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<notations><dynamics><f></f>
+					</dynamics>
+					<technical><string>5</string>
+						<fret>3</fret>
+					</technical>
+				</notations>
+			</note>
+			<note><pitch><step>D</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>1</duration>
+				<voice>1</voice>
+				<type>eighth</type>
+				<notations><dynamics><f></f>
+					</dynamics>
+					<technical><string>4</string>
+						<fret>0</fret>
+					</technical>
+				</notations>
+			</note>
+			<note><rest></rest>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+			</note>
+			<note><pitch><step>E</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>2</duration>
+				<voice>1</voice>
+				<type>quarter</type>
+				<notations><dynamics><f></f>
+					</dynamics>
+					<technical><string>4</string>
+						<fret>2</fret>
+					</technical>
+				</notations>
+			</note>
+		</measure>
+		<measure number="2">
+			<barline><bar-style>light-heavy</bar-style>
+			</barline>
+			<note><pitch><step>C</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>8</duration>
+				<voice>1</voice>
+				<type>whole</type>
+				<notations><dynamics><f></f>
+					</dynamics>
+					<technical><string>5</string>
+						<fret>3</fret>
+					</technical>
+				</notations>
+			</note>
+			<note><chord></chord>
+				<pitch><step>G</step>
+					<octave>4</octave>
+				</pitch>
+				<duration>8</duration>
+				<voice>1</voice>
+				<type>whole</type>
+				<notations><dynamics><f></f>
+					</dynamics>
+					<technical><string>3</string>
+						<fret>0</fret>
+					</technical>
+				</notations>
+			</note>
+		</measure>
+	</part>
+</score-partwise>

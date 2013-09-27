@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Song Artist="TesteOk" Title="Song 01" PlayingMode="EletricGuitarScore">
+	<ScoreNote Beat="15" Tick="0" SyncSongPin="0:1:0"/>
+	<ScoreNote Beat="15" Tick="0" SyncSongPin="0:1:0"/>
+	<ScoreNote Beat="15" Tick="0" SyncSongPin="0:1:0"/>
+
+  <ScoreNote Beat="15" Tick="160" SyncSongPin="0:1:333"/>
+	<ScoreNote Beat="15" Tick="160" SyncSongPin="0:1:333"/>
+	<ScoreNote Beat="15" Tick="160" SyncSongPin="0:1:333"/>
+
+  <ScoreNote Beat="17" Tick="0" SyncSongPin="0:3:0"/>
+	<ScoreNote Beat="17" Tick="0" SyncSongPin="0:3:0"/>
+	<ScoreNote Beat="17" Tick="0" SyncSongPin="0:3:0"/>
+
+  <ScoreNote Beat="23" Tick="0" SyncSongPin="0:9:0"/>
+	<ScoreNote Beat="23" Tick="0" SyncSongPin="0:9:0"/>
+	<ScoreNote Beat="23" Tick="0" SyncSongPin="0:9:0"/>
+</Song>

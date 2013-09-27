@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1072]D:\_GuitarMonics\svn-guitarmonics\trunk\Fontes\SongEditor\GuitarProImport.Tests\bin\Debug\GuitarProImport.Tests.dll</TopNode>
+  <SelectedNode>[0-1033]GuitarProImport.Tests.ImportTests2.MeasureTrackPairs({ FileTried = luiz-gonzaga--asa-branca--guitarpro.gp4, SongName = Asa Branca, Subtitle = , MeasureToTest = 0, PairToTest = 0 })</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1072]D:\_GuitarMonics\svn-guitarmonics\trunk\Fontes\SongEditor\GuitarProImport.Tests\bin\Debug\GuitarProImport.Tests.dll" Expanded="true">
+      <Nodes>
+        <Node UniqueName="[0-1073]GuitarProImport" Expanded="true">
+          <Nodes>
+            <Node UniqueName="[0-1074]GuitarProImport.Tests" Expanded="true">
+              <Nodes>
+                <Node UniqueName="[0-1044]GuitarProImport.Tests.ImportTests" Expanded="true">
+                  <Nodes>
+                    <Node UniqueName="[0-1062]GuitarProImport.Tests.ImportTests.FlagMapTests">
+                      <Nodes>
+                        <Node UniqueName="[0-1068]GuitarProImport.Tests.ImportTests.FlagMapTests(0,&quot;00000000&quot;)" />
+                        <Node UniqueName="[0-1071]GuitarProImport.Tests.ImportTests.FlagMapTests(1,&quot;00000001&quot;)" />
+                        <Node UniqueName="[0-1070]GuitarProImport.Tests.ImportTests.FlagMapTests(127,&quot;01111111&quot;)" />
+                        <Node UniqueName="[0-1065]GuitarProImport.Tests.ImportTests.FlagMapTests(128,&quot;10000000&quot;)" />
+                        <Node UniqueName="[0-1066]GuitarProImport.Tests.ImportTests.FlagMapTests(2,&quot;00000010&quot;)" />
+                        <Node UniqueName="[0-1069]GuitarProImport.Tests.ImportTests.FlagMapTests(254,&quot;11111110&quot;)" />
+                        <Node UniqueName="[0-1067]GuitarProImport.Tests.ImportTests.FlagMapTests(255,&quot;11111111&quot;)" />
+                        <Node UniqueName="[0-1064]GuitarProImport.Tests.ImportTests.FlagMapTests(4,&quot;00000100&quot;)" />
+                        <Node UniqueName="[0-1063]GuitarProImport.Tests.ImportTests.FlagMapTests(8,&quot;00001000&quot;)" />
+                      </Nodes>
+                    </Node>
+                    <Node UniqueName="[0-1045]GuitarProImport.Tests.ImportTests.MessagesReturnedWhenCheckingFileVersion">
+                      <Nodes>
+                        <Node UniqueName="[0-1052]GuitarProImport.Tests.ImportTests.MessagesReturnedWhenCheckingFileVersion(&quot;FICHIER GUITAR PRO L4.06&quot;,&quot;This file was reconized as a file for GuitarPRO L4.06 and couldn't be open.&quot;)" />
+                        <Node UniqueName="[0-1057]GuitarProImport.Tests.ImportTests.MessagesReturnedWhenCheckingFileVersion(&quot;FICHIER GUITAR PRO v1&quot;,&quot;This file was reconized as a file for GuitarPRO v1 and couldn't be open.&quot;)" />
+                        <Node UniqueName="[0-1048]GuitarProImport.Tests.ImportTests.MessagesReturnedWhenCheckingFileVersion(&quot;FICHIER GUITAR PRO v1.01&quot;,&quot;This file was reconized as a file for GuitarPRO v1.01 and couldn't be open.&quot;)" />
+                        <Node UniqueName="[0-1046]GuitarProImport.Tests.ImportTests.MessagesReturnedWhenCheckingFileVersion(&quot;FICHIER GUITAR PRO v1.02&quot;,&quot;This file was reconized as a file for GuitarPRO v1.02 and couldn't be open.&quot;)" />
+                        <Node UniqueName="[0-1055]GuitarProImport.Tests.ImportTests.MessagesReturnedWhenCheckingFileVersion(&quot;FICHIER GUITAR PRO v1.03&quot;,&quot;This file was reconized as a file for GuitarPRO v1.03 and couldn't be open.&quot;)" />
+                        <Node UniqueName="[0-1047]GuitarProImport.Tests.ImportTests.MessagesReturnedWhenCheckingFileVersion(&quot;FICHIER GUITAR PRO v1.04&quot;,&quot;This file was reconized as a file for GuitarPRO v1.04 and couldn't be open.&quot;)" />
+                        <Node UniqueName="[0-1054]GuitarProImport.Tests.ImportTests.MessagesReturnedWhenCheckingFileVersion(&quot;FICHIER GUITAR PRO v2.20&quot;,&quot;This file was reconized as a file for GuitarPRO v2.20 and couldn't be open.&quot;)" />
+                        <Node UniqueName="[0-1049]GuitarProImport.Tests.ImportTests.MessagesReturnedWhenCheckingFileVersion(&quot;FICHIER GUITAR PRO v2.21&quot;,&quot;This file was reconized as a file for GuitarPRO v2.21 and couldn't be open.&quot;)" />
+                        <Node UniqueName="[0-1050]GuitarProImport.Tests.ImportTests.MessagesReturnedWhenCheckingFileVersion(&quot;FICHIER GUITAR PRO v3.00&quot;,&quot;This file was reconized as a file for GuitarPRO v3.00 and couldn't be open.&quot;)" />
+                        <Node UniqueName="[0-1051]GuitarProImport.Tests.ImportTests.MessagesReturnedWhenCheckingFileVersion(&quot;FICHIER GUITAR PRO v4.00&quot;,&quot;This file was reconized as a file for GuitarPRO v4.00 and couldn't be open.&quot;)" />
+                        <Node UniqueName="[0-1056]GuitarProImport.Tests.ImportTests.MessagesReturnedWhenCheckingFileVersion(&quot;FICHIER GUITAR PRO v4.06&quot;,&quot;&quot;)" />
+                        <Node UniqueName="[0-1053]GuitarProImport.Tests.ImportTests.MessagesReturnedWhenCheckingFileVersion(&quot;some other thing&quot;,&quot;This file was not reconized as GuitarPRO.&quot;)" />
+                      </Nodes>
+                    </Node>
+                    <Node UniqueName="[0-1058]GuitarProImport.Tests.ImportTests.RealFilesTests">
+                      <Nodes>
+                        <Node UniqueName="[0-1059]GuitarProImport.Tests.ImportTests.RealFilesTests(&quot;Led Zeppelin - Stairway To Heaven.gp&quot;,&quot;This file was reconized as a file for GuitarPRO v3.00 and couldn't be open.&quot;)" />
+                        <Node UniqueName="[0-1061]GuitarProImport.Tests.ImportTests.RealFilesTests(&quot;luiz-gonzaga--asa-branca--guitarpro.gp4&quot;,&quot;&quot;)" />
+                        <Node UniqueName="[0-1060]GuitarProImport.Tests.ImportTests.RealFilesTests(&quot;Metallica - ...And Justice For All.gp4&quot;,&quot;This file was reconized as a file for GuitarPRO v4.00 and couldn't be open.&quot;)" />
+                      </Nodes>
+                    </Node>
+                  </Nodes>
+                </Node>
+                <Node UniqueName="[0-1000]GuitarProImport.Tests.ImportTests2" Expanded="true">
+                  <Nodes>
+                    <Node UniqueName="[0-1043]GuitarProImport.Tests.ImportTests2.bitconverter" />
+                    <Node UniqueName="[0-1010]GuitarProImport.Tests.ImportTests2.Measures" Expanded="true">
+                      <Nodes>
+                        <Node UniqueName="[0-1018]GuitarProImport.Tests.ImportTests2.Measures({ FileTried = changed tripletfeel - deep-purple--smoke-on-the-water--guitarpro.gp4, SongName = Smoke On The Water, Subtitle =  })" />
+                        <Node UniqueName="[0-1017]GuitarProImport.Tests.ImportTests2.Measures({ FileTried = deep-purple--smoke-on-the-water--guitarpro.gp4, SongName = Smoke On The Water, Subtitle =  })" />
+                        <Node UniqueName="[0-1015]GuitarProImport.Tests.ImportTests2.Measures({ FileTried = green-day--american-idiot--guitarpro.gp4, SongName = American Idiot, Subtitle =  })" />
+                        <Node UniqueName="[0-1016]GuitarProImport.Tests.ImportTests2.Measures({ FileTried = green-day--basket-case--guitarpro.gp4, SongName = Basket Case, Subtitle =  })" />
+                        <Node UniqueName="[0-1012]GuitarProImport.Tests.ImportTests2.Measures({ FileTried = led_zeppelin_stairway_to_heaven.gp4, SongName = Stairway To Heaven, Subtitle =  })" />
+                        <Node UniqueName="[0-1013]GuitarProImport.Tests.ImportTests2.Measures({ FileTried = led-zeppelin--heartbreaker--guitarpro.gp4, SongName = Heartbreaker, Subtitle =  })" />
+                        <Node UniqueName="[0-1011]GuitarProImport.Tests.ImportTests2.Measures({ FileTried = luiz-gonzaga--asa-branca--guitarpro.gp4, SongName = Asa Branca, Subtitle =  })" />
+                        <Node UniqueName="[0-1014]GuitarProImport.Tests.ImportTests2.Measures({ FileTried = o-rappa--me-deixa--guitarpro.gp4, SongName = Me Deixa, Subtitle =  })" />
+                      </Nodes>
+                    </Node>
+                    <Node UniqueName="[0-1032]GuitarProImport.Tests.ImportTests2.MeasureTrackPairs" Expanded="true">
+                      <Nodes>
+                        <Node UniqueName="[0-1033]GuitarProImport.Tests.ImportTests2.MeasureTrackPairs({ FileTried = luiz-gonzaga--asa-branca--guitarpro.gp4, SongName = Asa Branca, Subtitle = , MeasureToTest = 0, PairToTest = 0 })" />
+                        <Node UniqueName="[0-1034]GuitarProImport.Tests.ImportTests2.MeasureTrackPairs({ FileTried = luiz-gonzaga--asa-branca--guitarpro.gp4, SongName = Asa Branca, Subtitle = , MeasureToTest = 1, PairToTest = 0 })" />
+                        <Node UniqueName="[0-1035]GuitarProImport.Tests.ImportTests2.MeasureTrackPairs({ FileTried = luiz-gonzaga--asa-branca--guitarpro.gp4, SongName = Asa Branca, Subtitle = , MeasureToTest = 2, PairToTest = 0 })" />
+                        <Node UniqueName="[0-1036]GuitarProImport.Tests.ImportTests2.MeasureTrackPairs({ FileTried = luiz-gonzaga--asa-branca--guitarpro.gp4, SongName = Asa Branca, Subtitle = , MeasureToTest = 3, PairToTest = 0 })" />
+                        <Node UniqueName="[0-1037]GuitarProImport.Tests.ImportTests2.MeasureTrackPairs({ FileTried = luiz-gonzaga--asa-branca--guitarpro.gp4, SongName = Asa Branca, Subtitle = , MeasureToTest = 4, PairToTest = 0 })" />
+                        <Node UniqueName="[0-1038]GuitarProImport.Tests.ImportTests2.MeasureTrackPairs({ FileTried = luiz-gonzaga--asa-branca--guitarpro.gp4, SongName = Asa Branca, Subtitle = , MeasureToTest = 5, PairToTest = 0 })" />
+                        <Node UniqueName="[0-1039]GuitarProImport.Tests.ImportTests2.MeasureTrackPairs({ FileTried = luiz-gonzaga--asa-branca--guitarpro.gp4, SongName = Asa Branca, Subtitle = , MeasureToTest = 6, PairToTest = 0 })" />
+                        <Node UniqueName="[0-1040]GuitarProImport.Tests.ImportTests2.MeasureTrackPairs({ FileTried = luiz-gonzaga--asa-branca--guitarpro.gp4, SongName = Asa Branca, Subtitle = , MeasureToTest = 7, PairToTest = 0 })" />
+                        <Node UniqueName="[0-1041]GuitarProImport.Tests.ImportTests2.MeasureTrackPairs({ FileTried = luiz-gonzaga--asa-branca--guitarpro.gp4, SongName = Asa Branca, Subtitle = , MeasureToTest = 8, PairToTest = 0 })" />
+                        <Node UniqueName="[0-1042]GuitarProImport.Tests.ImportTests2.MeasureTrackPairs({ FileTried = luiz-gonzaga--asa-branca--guitarpro.gp4, SongName = Asa Branca, Subtitle = , MeasureToTest = 9, PairToTest = 0 })" />
+                      </Nodes>
+                    </Node>
+                    <Node UniqueName="[0-1028]GuitarProImport.Tests.ImportTests2.MidiChannelsTable" Expanded="true">
+                      <Nodes>
+                        <Node UniqueName="[0-1029]GuitarProImport.Tests.ImportTests2.MidiChannelsTable({ FileTried = green-day--basket-case--guitarpro.gp4, SongName = Basket Case, Subtitle =  })" />
+                      </Nodes>
+                    </Node>
+                    <Node UniqueName="[0-1030]GuitarProImport.Tests.ImportTests2.MidiChannelsTableAsString" Expanded="true">
+                      <Nodes>
+                        <Node UniqueName="[0-1031]GuitarProImport.Tests.ImportTests2.MidiChannelsTableAsString({ FileTried = green-day--basket-case--guitarpro.gp4, SongName = Basket Case, Subtitle =  })" />
+                      </Nodes>
+                    </Node>
+                    <Node UniqueName="[0-1001]GuitarProImport.Tests.ImportTests2.SongData" Expanded="true">
+                      <Nodes>
+                        <Node UniqueName="[0-1009]GuitarProImport.Tests.ImportTests2.SongData({ FileTried = changed tripletfeel - deep-purple--smoke-on-the-water--guitarpro.gp4, SongName = Smoke On The Water, Subtitle =  })" />
+                        <Node UniqueName="[0-1008]GuitarProImport.Tests.ImportTests2.SongData({ FileTried = deep-purple--smoke-on-the-water--guitarpro.gp4, SongName = Smoke On The Water, Subtitle =  })" />
+                        <Node UniqueName="[0-1006]GuitarProImport.Tests.ImportTests2.SongData({ FileTried = green-day--american-idiot--guitarpro.gp4, SongName = American Idiot, Subtitle =  })" />
+                        <Node UniqueName="[0-1007]GuitarProImport.Tests.ImportTests2.SongData({ FileTried = green-day--basket-case--guitarpro.gp4, SongName = Basket Case, Subtitle =  })" />
+                        <Node UniqueName="[0-1003]GuitarProImport.Tests.ImportTests2.SongData({ FileTried = led_zeppelin_stairway_to_heaven.gp4, SongName = Stairway To Heaven, Subtitle =  })" />
+                        <Node UniqueName="[0-1004]GuitarProImport.Tests.ImportTests2.SongData({ FileTried = led-zeppelin--heartbreaker--guitarpro.gp4, SongName = Heartbreaker, Subtitle =  })" />
+                        <Node UniqueName="[0-1002]GuitarProImport.Tests.ImportTests2.SongData({ FileTried = luiz-gonzaga--asa-branca--guitarpro.gp4, SongName = Asa Branca, Subtitle =  })" />
+                        <Node UniqueName="[0-1005]GuitarProImport.Tests.ImportTests2.SongData({ FileTried = o-rappa--me-deixa--guitarpro.gp4, SongName = Me Deixa, Subtitle =  })" />
+                      </Nodes>
+                    </Node>
+                    <Node UniqueName="[0-1019]GuitarProImport.Tests.ImportTests2.Tracks" Expanded="true">
+                      <Nodes>
+                        <Node UniqueName="[0-1025]GuitarProImport.Tests.ImportTests2.Tracks({ FileTried = deep-purple--smoke-on-the-water--guitarpro.gp4, SongName = Smoke On The Water, Subtitle =  })" />
+                        <Node UniqueName="[0-1023]GuitarProImport.Tests.ImportTests2.Tracks({ FileTried = green-day--american-idiot--guitarpro.gp4, SongName = American Idiot, Subtitle =  })" />
+                        <Node UniqueName="[0-1021]GuitarProImport.Tests.ImportTests2.Tracks({ FileTried = green-day--basket-case--guitarpro.gp4, SongName = Basket Case, Subtitle =  })" />
+                        <Node UniqueName="[0-1027]GuitarProImport.Tests.ImportTests2.Tracks({ FileTried = green-day--time-of-your-life-good-ridance--guitarpro.gp4, SongName = , Subtitle =  })" />
+                        <Node UniqueName="[0-1026]GuitarProImport.Tests.ImportTests2.Tracks({ FileTried = led_zeppelin_stairway_to_heaven.gp4, SongName = Stairway To Heaven, Subtitle =  })" />
+                        <Node UniqueName="[0-1024]GuitarProImport.Tests.ImportTests2.Tracks({ FileTried = led-zeppelin--heartbreaker--guitarpro.gp4, SongName = Heartbreaker, Subtitle =  })" />
+                        <Node UniqueName="[0-1020]GuitarProImport.Tests.ImportTests2.Tracks({ FileTried = luiz-gonzaga--asa-branca--guitarpro.gp4, SongName = Asa Branca, Subtitle =  })" />
+                        <Node UniqueName="[0-1022]GuitarProImport.Tests.ImportTests2.Tracks({ FileTried = o-rappa--me-deixa--guitarpro.gp4, SongName = Me Deixa, Subtitle =  })" />
+                      </Nodes>
+                    </Node>
+                  </Nodes>
+                </Node>
+              </Nodes>
+            </Node>
+          </Nodes>
+        </Node>
+      </Nodes>
+    </Node>
+  </Nodes>
+</VisualState>

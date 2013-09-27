@@ -1,0 +1,4 @@
+C:\$Pessoal\Guitarmonics-OpenSource\trunk\source\Game\Guitarmonics.GameLib\Content\obj\x86\Release\ResolveAssemblyReference.cache
+C:\$Pessoal\Guitarmonics-OpenSource\trunk\source\Game\Guitarmonics.GameLib\Content\obj\x86\Release\Audio\GuitarmonicsAudioClips.xml
+C:\1-Pessoal\Guitarmonics-OpenSource\trunk\source\Game\Guitarmonics.GameLib\Content\obj\x86\Release\ResolveAssemblyReference.cache
+C:\1-Pessoal\Guitarmonics-OpenSource\trunk\source\Game\Guitarmonics.GameLib\Content\obj\x86\Release\Audio\GuitarmonicsAudioClips.xml

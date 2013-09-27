@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="2832a5cd-348c-4e40-88ae-d79e5692abd2" name="Fabricio@FABRICIO-XPS15 2012-05-28 01:01:30" runUser="FABRICIO-XPS15\Fabricio" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="eae8ab4c-c501-421d-9720-9957e5ab068a">
+    <Deployment userDeploymentRoot="C:\1-Pessoal\Guitarmonics-OpenSource\trunk\source\MusicXmlImporter\TestResults" useDefaultDeploymentRoot="false" runDeploymentRoot="Fabricio_FABRICIO-XPS15 2012-05-28 01_01_30">
+      <DeploymentItem filename="C:\1-Pessoal\Guitarmonics-OpenSource\trunk\source\AudioLib\AudioLib\bin\Debug\Guitarmonics.AudioLib.dll" />
+      <DeploymentItem filename="C:\1-Pessoal\Guitarmonics-OpenSource\trunk\source\AudioLib\AudioLib.Tests\bin\Debug\Bass.Net.dll" />
+      <DeploymentItem filename="C:\1-Pessoal\Guitarmonics-OpenSource\trunk\bin\NUnit\nunit.framework.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-05-28T01:01:30.1364386-03:00" queuing="2012-05-28T01:01:31.1164896-03:00" start="2012-05-28T01:01:31.2164898-03:00" finish="2012-05-28T01:02:02.1978779-03:00" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="FABRICIO-XPS15" outcome="Error" timestamp="2012-05-28T01:02:02.1938777-03:00">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="ConvertNotesInGuitarScoreNote" storage="c:\1-pessoal\guitarmonics-opensource\trunk\source\audiolib\audiolib.tests\bin\debug\guitarmonics.audiolib.tests.dll" id="8bba3b16-2470-3fb2-89c0-d9ad87f585ab" xmlns="Guitarmonics.AudioLib.Tests.MusicXml">
+      <Execution id="e1203d9f-8314-47bc-b60e-36462318a003" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010" />
+      <TestMethod codeBase="C:\1-Pessoal\Guitarmonics-OpenSource\trunk\source\AudioLib\AudioLib.Tests\bin\Debug\Guitarmonics.AudioLib.Tests.dll" adapterTypeName="NUnitForVSTS.NUnitTest.NUnitTestAdapter, NUnitForVSTS.NUnitTest, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null" className="Guitarmonics.AudioLib.Tests.MusicXml.GuitarMusicXmlImporterTest" name="ConvertNotesInGuitarScoreNote" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="8bba3b16-2470-3fb2-89c0-d9ad87f585ab" executionId="e1203d9f-8314-47bc-b60e-36462318a003" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <TestResultAggregation executionId="e1203d9f-8314-47bc-b60e-36462318a003" testId="8bba3b16-2470-3fb2-89c0-d9ad87f585ab" testName="ConvertNotesInGuitarScoreNote" computerName="FABRICIO-XPS15" duration="00:00:30.7513878" startTime="2012-05-28T01:01:31.4464901-03:00" endTime="2012-05-28T01:02:02.1978779-03:00" testType="d6af2cae-ad69-4f6b-94e9-14e2609e2389" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e1203d9f-8314-47bc-b60e-36462318a003">
+    </TestResultAggregation>
+  </Results>
+</TestRun>

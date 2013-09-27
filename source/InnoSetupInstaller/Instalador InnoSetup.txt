@@ -1,0 +1,2 @@
+http://www.jrsoftware.org/isdl.php
+http://www.david-amador.com/2010/06/making-a-xna-game-installer/

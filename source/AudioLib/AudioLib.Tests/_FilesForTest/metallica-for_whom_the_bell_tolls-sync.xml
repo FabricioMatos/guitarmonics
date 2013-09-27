@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Song Artist="Metallica" Title="For Whom the Bell Tolls" PlayingMode="EletricGuitarScore">
+	<ScoreNote Beat="17" Tick="0" SyncSongPin="0:08:430"/>
+	<ScoreNote Beat="25" Tick="0" SyncSongPin="0:12:580"/>
+	<ScoreNote Beat="113" Tick="240" SyncSongPin="0:57:280"/>
+	<ScoreNote Beat="145" Tick="0" SyncSongPin="1:13:460"/>
+	<ScoreNote Beat="249" Tick="0" SyncSongPin="2:06:350"/>
+</Song>

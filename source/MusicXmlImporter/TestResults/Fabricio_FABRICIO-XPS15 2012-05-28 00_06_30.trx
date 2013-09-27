@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="5d58aab5-ae95-4ea1-b191-d816f53963ff" name="Fabricio@FABRICIO-XPS15 2012-05-28 00:06:30" runUser="FABRICIO-XPS15\Fabricio" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Default Test Settings" id="e676bb61-4418-4e7b-92ad-f2f141ce7a0f">
+    <Deployment userDeploymentRoot="C:\1-Pessoal\Guitarmonics-OpenSource\trunk\source\MusicXmlImporter\TestResults" useDefaultDeploymentRoot="false" runDeploymentRoot="Fabricio_FABRICIO-XPS15 2012-05-28 00_06_30">
+      <DeploymentItem filename="C:\1-Pessoal\Guitarmonics-OpenSource\trunk\source\AudioLib\AudioLib\bin\Debug\Guitarmonics.AudioLib.dll" />
+      <DeploymentItem filename="C:\1-Pessoal\Guitarmonics-OpenSource\trunk\source\AudioLib\AudioLib.Tests\bin\Debug\Bass.Net.dll" />
+      <DeploymentItem filename="C:\1-Pessoal\Guitarmonics-OpenSource\trunk\bin\NUnit\nunit.framework.dll" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2012-05-28T00:06:30.8542102-03:00" queuing="2012-05-28T00:06:30.9532159-03:00" start="2012-05-28T00:06:30.9712169-03:00" finish="2012-05-28T00:06:31.7412604-03:00" />
+  <ResultSummary outcome="Failed">
+    <Counters total="1" executed="1" error="0" failed="1" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="ListAllNotesOfOneTrack" storage="c:\1-pessoal\guitarmonics-opensource\trunk\source\audiolib\audiolib.tests\bin\debug\guitarmonics.audiolib.tests.dll" id="5101603e-fcb5-8096-6aaa-f128a45c86be" xmlns="Guitarmonics.AudioLib.Tests.MusicXml">
+      <Execution id="0b0639a0-58ed-4032-9da0-0f5b035bff43" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010" />
+      <TestMethod codeBase="C:\1-Pessoal\Guitarmonics-OpenSource\trunk\source\AudioLib\AudioLib.Tests\bin\Debug\Guitarmonics.AudioLib.Tests.dll" adapterTypeName="NUnitForVSTS.NUnitTest.NUnitTestAdapter, NUnitForVSTS.NUnitTest, Version=5.1.0.0, Culture=neutral, PublicKeyToken=null" className="Guitarmonics.AudioLib.Tests.MusicXml.GuitarMusicXmlImporterTest" name="ListAllNotesOfOneTrack" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="5101603e-fcb5-8096-6aaa-f128a45c86be" executionId="0b0639a0-58ed-4032-9da0-0f5b035bff43" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <TestResultAggregation executionId="0b0639a0-58ed-4032-9da0-0f5b035bff43" testId="5101603e-fcb5-8096-6aaa-f128a45c86be" testName="ListAllNotesOfOneTrack" computerName="FABRICIO-XPS15" duration="00:00:00.2870000" startTime="2012-05-28T00:06:31.3592555-03:00" endTime="2012-05-28T00:06:31.6462555-03:00" testType="d6af2cae-ad69-4f6b-94e9-14e2609e2389" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="0b0639a0-58ed-4032-9da0-0f5b035bff43">
+      <Output>
+        <ErrorInfo>
+          <Message>System.Xml.XPath.XPathException : 'descendant::note union descendant::words' has an invalid token.</Message>
+          <StackTrace>   at MS.Internal.Xml.XPath.XPathParser.ParseXPathExpresion(String xpathExpresion)
+   at System.Xml.XPath.XPathExpression.Compile(String xpath, IXmlNamespaceResolver nsResolver)
+   at System.Xml.XPath.XPathNavigator.Select(String xpath)
+   at System.Xml.XmlNode.SelectNodes(String xpath)
+   at Guitarmonics.AudioLib.MusicXml.GuitarMusicXmlImporter.ListAllNotesOfOneTrack(XmlDocument pXmlDoc, TrackInfo pTrackInfo) in C:\1-Pessoal\Guitarmonics-OpenSource\trunk\source\AudioLib\AudioLib\MusicXml\GuitarMusicXmlImporter.cs:line 125
+   at Guitarmonics.AudioLib.Tests.MusicXml.GuitarMusicXmlImporterTest.ListAllNotesOfOneTrack() in C:\1-Pessoal\Guitarmonics-OpenSource\trunk\source\AudioLib\AudioLib.Tests\MusicXml\GuitarMusicXmlImporter.Test.cs:line 168</StackTrace>
+        </ErrorInfo>
+        <TextMessages>
+          <Message>System.Xml.XPath.XPathException : 'descendant::note union descendant::words' has an invalid token.</Message>
+        </TextMessages>
+      </Output>
+    </TestResultAggregation>
+  </Results>
+</TestRun>

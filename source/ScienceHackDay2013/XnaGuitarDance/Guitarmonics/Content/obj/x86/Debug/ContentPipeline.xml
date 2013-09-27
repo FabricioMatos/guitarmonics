@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\1-Pessoal\Guitarmonics-OpenSource\trunk\source\ScienceHackDay2013\XnaGuitarDance\Guitarmonics\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\1-Pessoal\Guitarmonics-OpenSource\trunk\source\ScienceHackDay2013\XnaGuitarDance\Guitarmonics\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\1-Pessoal\Guitarmonics-OpenSource\trunk\source\ScienceHackDay2013\XnaGuitarDance\Guitarmonics\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\1-Pessoal\Guitarmonics-OpenSource\trunk\source\ScienceHackDay2013\XnaGuitarDance\Guitarmonics\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2012-05-14T16:02:37.0952824-03:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

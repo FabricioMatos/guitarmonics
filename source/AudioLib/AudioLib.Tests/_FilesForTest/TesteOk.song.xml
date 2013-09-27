@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Song Artist="TesteOk" Title="Song 01" PlayingMode="EletricGuitarScore" Pitch="-0.5">
+	<ScoreNote Beat="15" Tick="0" NoteId="F#3" Duration="160" String="6" Fret="2" RemarkOrChordName="F#"/>
+	<ScoreNote Beat="15" Tick="0" NoteId="C#4" Duration="160" String="5" Fret="4" RemarkOrChordName=""/>
+	<ScoreNote Beat="15" Tick="0" NoteId="F#4" Duration="160" String="4" Fret="4" RemarkOrChordName=""/>
+
+  <ScoreNote Beat="15" Tick="160" NoteId="F#3" Duration="160" String="6" Fret="2" RemarkOrChordName="F#"/>
+	<ScoreNote Beat="15" Tick="160" NoteId="C#4" Duration="160" String="5" Fret="4" RemarkOrChordName=""/>
+	<ScoreNote Beat="15" Tick="160" NoteId="F#4" Duration="160" String="4" Fret="4" RemarkOrChordName=""/>
+
+  <ScoreNote Beat="17" Tick="0" NoteId="E3" Duration="2880" String="6" Fret="0" RemarkOrChordName="E"/>
+	<ScoreNote Beat="17" Tick="0" NoteId="B3" Duration="2880" String="5" Fret="2" RemarkOrChordName=""/>
+	<ScoreNote Beat="17" Tick="0" NoteId="E5" Duration="2880" String="2" Fret="5" RemarkOrChordName=""/>
+
+  <ScoreNote Beat="23" Tick="0" NoteId="F#3" Duration="160" String="6" Fret="2" RemarkOrChordName="F#"/>
+	<ScoreNote Beat="23" Tick="0" NoteId="C#4" Duration="160" String="5" Fret="4" RemarkOrChordName=""/>
+	<ScoreNote Beat="23" Tick="0" NoteId="F#4" Duration="160" String="4" Fret="4" RemarkOrChordName=""/>
+</Song>

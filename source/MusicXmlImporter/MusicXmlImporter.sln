@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MusicXmlImporter", "MusicXmlImporter\MusicXmlImporter.csproj", "{0D082C8D-E3FB-4849-8BED-5D04F86881F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guitarmonics.AudioLib", "..\AudioLib\AudioLib\Guitarmonics.AudioLib.csproj", "{9FABAB18-61F6-4A5F-B72B-9EBDC6F20C5A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guitarmonics.AudioLib.Tests", "..\AudioLib\AudioLib.Tests\Guitarmonics.AudioLib.Tests.csproj", "{F6E254B7-44B1-425C-B036-680230208D37}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0D082C8D-E3FB-4849-8BED-5D04F86881F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D082C8D-E3FB-4849-8BED-5D04F86881F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D082C8D-E3FB-4849-8BED-5D04F86881F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D082C8D-E3FB-4849-8BED-5D04F86881F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9FABAB18-61F6-4A5F-B72B-9EBDC6F20C5A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FABAB18-61F6-4A5F-B72B-9EBDC6F20C5A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FABAB18-61F6-4A5F-B72B-9EBDC6F20C5A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FABAB18-61F6-4A5F-B72B-9EBDC6F20C5A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6E254B7-44B1-425C-B036-680230208D37}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6E254B7-44B1-425C-B036-680230208D37}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6E254B7-44B1-425C-B036-680230208D37}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6E254B7-44B1-425C-B036-680230208D37}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

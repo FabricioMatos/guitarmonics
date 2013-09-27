@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\1-Pessoal\Guitarmonics-OpenSource\trunk\source\AudioLib\AudioLib.Tests\bin\Debug\Guitarmonics.AudioLib.Tests.dll" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2012-05-28" time="01:19:26">
+  <environment nunit-version="2.5.1.9189" clr-version="4.0.30319.269" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\1-Pessoal\Guitarmonics-OpenSource\trunk\source\MusicXmlImporter\TestResults\Fabricio_FABRICIO-XPS15 2012-05-28 01_19_25\Out" machine-name="FABRICIO-XPS15" user="Fabricio" user-domain="FABRICIO-XPS15" />
+  <culture-info current-culture="pt-BR" current-uiculture="pt-BR" />
+  <test-suite name="C:\1-Pessoal\Guitarmonics-OpenSource\trunk\source\AudioLib\AudioLib.Tests\bin\Debug\Guitarmonics.AudioLib.Tests.dll" executed="True" success="True" time="0.054" asserts="0">
+    <results>
+      <test-suite name="Guitarmonics" executed="True" success="True" time="0.051" asserts="0">
+        <results>
+          <test-suite name="AudioLib" executed="True" success="True" time="0.051" asserts="0">
+            <results>
+              <test-suite name="Tests" executed="True" success="True" time="0.051" asserts="0">
+                <results>
+                  <test-suite name="MusicXml" executed="True" success="True" time="0.050" asserts="0">
+                    <results>
+                      <test-suite name="GuitarMusicXmlImporterTest" executed="True" success="True" time="0.039" asserts="0">
+                        <results>
+                          <test-case name="Guitarmonics.AudioLib.Tests.MusicXml.GuitarMusicXmlImporterTest.ConvertNotesInGuitarScoreNote" executed="True" success="True" time="0.034" asserts="49" />
+                        </results>
+                      </test-suite>
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://guitarmonics.com/" xmlns:s1="http://microsoft.com/wsdl/types/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" targetNamespace="http://guitarmonics.com/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://guitarmonics.com/">
+      <s:import namespace="http://microsoft.com/wsdl/types/" />
+      <s:element name="ListAllSongVersionsSortedByArtistName">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pUserName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pPasswordHash" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="ListAllSongVersionsSortedByArtistNameResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="1" maxOccurs="1" name="Result" nillable="true" type="tns:SongVersionInformationList" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:complexType name="SongVersionInformationList">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="SongVersionInformationList" type="tns:ArrayOfSongVersionInformation" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="ArrayOfSongVersionInformation">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="unbounded" name="SongVersionInformation" nillable="true" type="tns:SongVersionInformation" />
+        </s:sequence>
+      </s:complexType>
+      <s:complexType name="SongVersionInformation">
+        <s:sequence>
+          <s:element minOccurs="0" maxOccurs="1" name="Id" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Artist" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Album" type="s:string" />
+          <s:element minOccurs="0" maxOccurs="1" name="Song" type="s:string" />
+        </s:sequence>
+      </s:complexType>
+      <s:element name="GetSongVersionTablature">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pUserName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pPasswordHash" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="pOid" type="s1:guid" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetSongVersionTablatureResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetSongVersionTablatureResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetSongVersionSynchronization">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="pUserName" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="pPasswordHash" type="s:string" />
+            <s:element minOccurs="1" maxOccurs="1" name="pOid" type="s1:guid" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="GetSongVersionSynchronizationResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="GetSongVersionSynchronizationResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://microsoft.com/wsdl/types/">
+      <s:simpleType name="guid">
+        <s:restriction base="s:string">
+          <s:pattern value="[0-9a-fA-F]{8}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{4}-[0-9a-fA-F]{12}" />
+        </s:restriction>
+      </s:simpleType>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="ListAllSongVersionsSortedByArtistNameSoapIn">
+    <wsdl:part name="parameters" element="tns:ListAllSongVersionsSortedByArtistName" />
+  </wsdl:message>
+  <wsdl:message name="ListAllSongVersionsSortedByArtistNameSoapOut">
+    <wsdl:part name="parameters" element="tns:ListAllSongVersionsSortedByArtistNameResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetSongVersionTablatureSoapIn">
+    <wsdl:part name="parameters" element="tns:GetSongVersionTablature" />
+  </wsdl:message>
+  <wsdl:message name="GetSongVersionTablatureSoapOut">
+    <wsdl:part name="parameters" element="tns:GetSongVersionTablatureResponse" />
+  </wsdl:message>
+  <wsdl:message name="GetSongVersionSynchronizationSoapIn">
+    <wsdl:part name="parameters" element="tns:GetSongVersionSynchronization" />
+  </wsdl:message>
+  <wsdl:message name="GetSongVersionSynchronizationSoapOut">
+    <wsdl:part name="parameters" element="tns:GetSongVersionSynchronizationResponse" />
+  </wsdl:message>
+  <wsdl:portType name="GameServiceSoap">
+    <wsdl:operation name="ListAllSongVersionsSortedByArtistName">
+      <wsdl:input message="tns:ListAllSongVersionsSortedByArtistNameSoapIn" />
+      <wsdl:output message="tns:ListAllSongVersionsSortedByArtistNameSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetSongVersionTablature">
+      <wsdl:input message="tns:GetSongVersionTablatureSoapIn" />
+      <wsdl:output message="tns:GetSongVersionTablatureSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="GetSongVersionSynchronization">
+      <wsdl:input message="tns:GetSongVersionSynchronizationSoapIn" />
+      <wsdl:output message="tns:GetSongVersionSynchronizationSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="GameServiceSoap" type="tns:GameServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ListAllSongVersionsSortedByArtistName">
+      <soap:operation soapAction="http://guitarmonics.com/ListAllSongVersionsSortedByArtistName" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetSongVersionTablature">
+      <soap:operation soapAction="http://guitarmonics.com/GetSongVersionTablature" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetSongVersionSynchronization">
+      <soap:operation soapAction="http://guitarmonics.com/GetSongVersionSynchronization" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="GameServiceSoap12" type="tns:GameServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="ListAllSongVersionsSortedByArtistName">
+      <soap12:operation soapAction="http://guitarmonics.com/ListAllSongVersionsSortedByArtistName" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetSongVersionTablature">
+      <soap12:operation soapAction="http://guitarmonics.com/GetSongVersionTablature" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="GetSongVersionSynchronization">
+      <soap12:operation soapAction="http://guitarmonics.com/GetSongVersionSynchronization" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="GameService">
+    <wsdl:port name="GameServiceSoap" binding="tns:GameServiceSoap">
+      <soap:address location="http://localhost:50000/GameService.asmx" />
+    </wsdl:port>
+    <wsdl:port name="GameServiceSoap12" binding="tns:GameServiceSoap12">
+      <soap12:address location="http://localhost:50000/GameService.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

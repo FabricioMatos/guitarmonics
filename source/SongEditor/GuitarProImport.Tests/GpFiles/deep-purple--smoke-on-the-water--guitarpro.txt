@@ -1,0 +1,7543 @@
+GP - BEGIN
+	HEADER - BEGIN
+	Version: FICHIER GUITAR PRO v4.06
+	Title: Smoke On The Water
+	Subtitle: 
+	Interpret: Deep Purple
+	Album: Machine Head
+	Author of the song: Words & Music by Ian Gillan (vocals), Ritchie Blackmore (guitars), Roger Glover (bass), Jon Lord (rock organ),  and Ian Paice (drums).
+	Copyright: B. Feldman & Company Limited trading as Hec Music
+	Author of the piece: pulpman
+	Instructions: 
+	Notes: Please rate this tab on MSB, 'cause i've "wasted" a lot 
+of time doing this one. 
+
+Intro's riff is one of the best rock riffs ever made.Of 
+course, Zep riffs are amazing as well. Solo is 
+great, too. Deep Purple's best song, maybe. Well, I  
+don't know. Highway Star is a great one, too.      
+Please send comments to 
+<mikko.ruuskanen@mbnet.fi>
+	Use triplet feel? false
+	
+	LYRICS - BEGIN
+	Track number: 0
+		Line no 0
+		Starts from measure 1
+		
+		Line no 1
+		Starts from measure 1
+		
+		Line no 2
+		Starts from measure 1
+		
+		Line no 3
+		Starts from measure 1
+		
+		Line no 4
+		Starts from measure 1
+		
+	LYRIC - END	Tempo: 112
+	Key: B_FLAT
+	Octave: 16777215
+	Number of measures: 29
+	Number of tracks: 3
+	HEADER - END
+	MEASURES - BEGIN
+	Measure #0
+	Time Signture:4/4,Repeat start,Marker: Name: Intro
+Color: (255, 0, 0),Tonality: B_FLAT
+	Measure #1
+	Time Signture:4/4,Tonality: B_FLAT
+	Measure #2
+	Time Signture:4/4,Tonality: B_FLAT
+	Measure #3
+	Time Signture:4/4,Repeat end (1X),Tonality: B_FLAT
+	Measure #4
+	Time Signture:4/4,Marker: Name: Guitar Solo
+Color: (255, 0, 0),Tonality: B_FLAT
+	Measure #5
+	Time Signture:4/4,Tonality: B_FLAT
+	Measure #6
+	Time Signture:4/4,Tonality: B_FLAT
+	Measure #7
+	Time Signture:4/4,Tonality: B_FLAT
+	Measure #8
+	Time Signture:4/4,Tonality: B_FLAT
+	Measure #9
+	Time Signture:4/4,Tonality: B_FLAT
+	Measure #10
+	Time Signture:4/4,Tonality: B_FLAT
+	Measure #11
+	Time Signture:4/4,Tonality: B_FLAT
+	Measure #12
+	Time Signture:4/4,Tonality: B_FLAT
+	Measure #13
+	Time Signture:4/4,Tonality: B_FLAT
+	Measure #14
+	Time Signture:4/4,Tonality: B_FLAT
+	Measure #15
+	Time Signture:4/4,Tonality: B_FLAT
+	Measure #16
+	Time Signture:4/4,Tonality: B_FLAT
+	Measure #17
+	Time Signture:4/4,Tonality: B_FLAT
+	Measure #18
+	Time Signture:4/4,Tonality: B_FLAT
+	Measure #19
+	Time Signture:4/4,Tonality: B_FLAT
+	Measure #20
+	Time Signture:4/4,Tonality: B_FLAT
+	Measure #21
+	Time Signture:4/4,Tonality: B_FLAT
+	Measure #22
+	Time Signture:4/4,Tonality: B_FLAT
+	Measure #23
+	Time Signture:4/4,Tonality: B_FLAT
+	Measure #24
+	Time Signture:4/4,Tonality: B_FLAT
+	Measure #25
+	Time Signture:4/4,Tonality: B_FLAT
+	Measure #26
+	Time Signture:4/4,Tonality: B_FLAT
+	Measure #27
+	Time Signture:4/4,Tonality: B_FLAT
+	Measure #28
+	Time Signture:4/4,Tonality: B_FLAT
+	MEASURES - END
+	TRACKS - BEGIN
+	Track #1
+	Drums track? false
+	12-stringed guitar track? false
+	Banjo track? false
+	Name: Riff 
+	Number of strings: 6
+	Tuning: 64 59 55 50 45 40 
+	Port: 1
+	Channel: 1
+	Channel effects: 2
+	Number of frets: 24
+	Height of the capo: 0
+	Color: (0, 12, 168)
+	Track #2
+	Drums track? false
+	12-stringed guitar track? false
+	Banjo track? false
+	Name: Solo
+	Number of strings: 6
+	Tuning: 64 59 55 50 45 40 
+	Port: 1
+	Channel: 3
+	Channel effects: 4
+	Number of frets: 24
+	Height of the capo: 0
+	Color: (0, 16, 200)
+	Track #3
+	Drums track? true
+	12-stringed guitar track? false
+	Banjo track? false
+	Name: Ian Paice
+	Number of strings: 6
+	Tuning: 0 0 0 0 0 0 
+	Port: 1
+	Channel: 10
+	Channel effects: 10
+	Number of frets: 87
+	Height of the capo: 0
+	Color: (120, 132, 255)
+	TRACKS - END
+	MEASURE-TRACK PAIRS - BEGIN
+	Measure #1 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		MixTableChangebalance: changeDuration: 0, newValue: 2, chorus: changeDuration: 0, newValue: -1, instrument: changeDuration: 0, newValue: -1, phaser: changeDuration: 0, newValue: -1, reverb: changeDuration: 0, newValue: -1, tempo: applyToAllTracks:: true, changeDuration: 0, newValue: -1, tremolo: changeDuration: 0, newValue: -1, volume: changeDuration: 0, newValue: -1
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,3,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,3,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,3,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isDeadNote, nTuplet: 0, fret number:-1
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,3,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #1 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #1 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #2 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,3,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:6
+			, Dynamic: F, nTuplet: 0, fret number:6
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,3,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,3,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isDeadNote, nTuplet: 0, fret number:-1
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #2 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #2 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #3 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,3,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,3,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,3,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isDeadNote, nTuplet: 0, fret number:-1
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,3,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #3 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #3 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #4 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: true
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isDotted, nTuplet: 0, fret number:0
+			, Dynamic: F, isDotted, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,3,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,2,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isDeadNote, nTuplet: 0, fret number:-1
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #4 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #4 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #5 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: true
+		duration: Quarter note
+		Empty Beat:false
+		MixTableChangebalance: changeDuration: 0, newValue: -1, chorus: changeDuration: 0, newValue: -1, instrument: changeDuration: 0, newValue: -1, phaser: changeDuration: 0, newValue: -1, reverb: changeDuration: 0, newValue: -1, tempo: applyToAllTracks:: true, changeDuration: 0, newValue: -1, tremolo: changeDuration: 0, newValue: -1, volume: changeDuration: 0, newValue: 4
+		Notes: 
+			, Dynamic: F, isDotted, nTuplet: 0, fret number:5
+			, Dynamic: F, isDotted, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,2,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,2,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isDeadNote, nTuplet: 0, fret number:-1
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #5 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:12
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:10
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #5 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:42
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,1,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:42
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:42
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,1,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:42
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:42
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,3,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:42
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:42
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,1,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:42
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,
+		Text: 
+	Beat - END
+	Beat #8
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:42
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,1,
+		Text: 
+	Beat - END
+	Beat #9
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:42
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,
+		Text: 
+	Beat - END
+	Beat #10
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:42
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,1,
+		Text: 
+	Beat - END
+	Beat #11
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:42
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,
+		Text: 
+	Beat - END
+	Beat #12
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #13
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #14
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:47
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #6 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 1,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 1,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #6 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Half note
+		null
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, Effects : leftHandVibrato, nTuplet: 0, fret number:12
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, Effects : Bend: Type: Bend and Release, Value: 100Bend poits: 0: Position: 0, Hight: 0, Vibrato: None1: Position: 15, Hight: 100, Vibrato: None2: Position: 30, Hight: 100, Vibrato: None3: Position: 45, Hight: 0, Vibrato: None4: Position: 60, Hight: 0, Vibrato: None, nTuplet: 0, fret number:13
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #6 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:49
+			, Dynamic: F, nTuplet: 0, fret number:49
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,1,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		MixTableChangebalance: changeDuration: 0, newValue: -1, chorus: changeDuration: 0, newValue: -1, instrument: changeDuration: 0, newValue: -1, phaser: changeDuration: 0, newValue: -1, reverb: changeDuration: 0, newValue: -1, tempo: applyToAllTracks:: true, changeDuration: 0, newValue: -1, tremolo: changeDuration: 0, newValue: -1, volume: changeDuration: 0, newValue: 7
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #8
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #9
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #10
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #11
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #12
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #13
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #14
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #15
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #7 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 1,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 1,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #7 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, Effects : Bend: Type: Bend, Value: 50Bend poits: 0: Position: 0, Hight: 0, Vibrato: None1: Position: 30, Hight: 50, Vibrato: None2: Position: 60, Hight: 50, Vibrato: None, nTuplet: 0, fret number:11
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		null
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, Effects : leftHandVibrato, nTuplet: 0, fret number:12
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, Effects : Bend: Type: Bend, Value: 100Bend poits: 0: Position: 0, Hight: 0, Vibrato: None1: Position: 30, Hight: 100, Vibrato: None2: Position: 60, Hight: 100, Vibrato: None, nTuplet: 0, fret number:11
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:12
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #7 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #8
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #9
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #10
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #11
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #12
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #13
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #14
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #15
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #8 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #8 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:10
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:12
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:11
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, Effects : Bend: Type: Bend, Value: 100Bend poits: 0: Position: 0, Hight: 0, Vibrato: None1: Position: 20, Hight: 100, Vibrato: None2: Position: 60, Hight: 100, Vibrato: None, nTuplet: 0, fret number:11
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:11
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:10
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #8 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #8
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #9
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #10
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #11
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #12
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #13
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #14
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #15
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #9 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 1,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 1,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, Effects : hammerOn/PullOff, nTuplet: 0, fret number:3
+		nTuplet: 3
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, Effects : hammerOn/PullOff, nTuplet: 0, fret number:5
+		nTuplet: 3
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #8
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, Effects : hammerOn/PullOff, nTuplet: 0, fret number:3
+		nTuplet: 3
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #9
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #9 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:8
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:10
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, Effects : hammerOn/PullOff, nTuplet: 0, fret number:8
+		nTuplet: 3
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, Effects : hammerOn/PullOff, nTuplet: 0, fret number:10
+		nTuplet: 3
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, Effects : Slide: Shift slide, nTuplet: 0, fret number:8
+		nTuplet: 3
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:6
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:8
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:6
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #8
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:8
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #9
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:6
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #9 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #8
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #9
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #10
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #11
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #12
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #13
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #14
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #15
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #10 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 1,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 1,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #10 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:6
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:8
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:6
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		null
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, Effects : leftHandVibrato, nTuplet: 0, fret number:8
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:8
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #10 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #8
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #9
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #10
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #11
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #12
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #13
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #14
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #15
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #11 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 1,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 1,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #11 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:11
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:8
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:11
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, Effects : Bend: Type: Bend, Value: 100Bend poits: 0: Position: 0, Hight: 0, Vibrato: None1: Position: 30, Hight: 100, Vibrato: None2: Position: 60, Hight: 100, Vibrato: None, nTuplet: 0, fret number:11
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:8
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:8
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #8
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #9
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:11
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #11 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #8
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #9
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #10
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #11
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #12
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #13
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #14
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #15
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #12 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #12 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, Effects : Bend: Type: Bend, Value: 100Bend poits: 0: Position: 0, Hight: 0, Vibrato: None1: Position: 30, Hight: 100, Vibrato: None2: Position: 60, Hight: 100, Vibrato: None, nTuplet: 0, fret number:10
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:8
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:8
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:11
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:10
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:8
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:11
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:10
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #8
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:8
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #9
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:10
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #10
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:10
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #11
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:8
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #12
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:7
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #13
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:10
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #14
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:8
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #15
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:7
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #12 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #8
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #9
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #10
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #11
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #12
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #13
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #14
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #15
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #13 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 1,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 1,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #13 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isDeadNote, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:8
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:7
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #8
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:8
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #9
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #10
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:8
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #11
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #12
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:7
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #13
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #14
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #15
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #13 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #8
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #9
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #10
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #11
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #12
+	Beat - BEGIN
+		dotted notes: false
+		duration: Thirty-second note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #13
+	Beat - BEGIN
+		dotted notes: false
+		duration: Thirty-second note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #14
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #15
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #14 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 1,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 1,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #14 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: true
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, Effects : Bend: Type: Bend and Release, Value: 100Bend poits: 0: Position: 0, Hight: 0, Vibrato: None1: Position: 15, Hight: 100, Vibrato: None2: Position: 25, Hight: 100, Vibrato: None3: Position: 30, Hight: 0, Vibrato: None4: Position: 60, Hight: 0, Vibrato: None, isDotted, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:2
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #14 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: true
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, isDotted, nTuplet: 0, fret number:49
+			, Dynamic: FFF, isDotted, nTuplet: 0, fret number:49
+			, Dynamic: F, isDotted, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,1,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #8
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #9
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #10
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #11
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #12
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #13
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #15 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 1,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 1,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #15 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:2
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:2
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		nulltremoloBar: Type: Dip, Value: 250Bend poits: 0: Position: 0, Hight: 0, Vibrato: None1: Position: 30, Hight: -250, Vibrato: None2: Position: 60, Hight: 0, Vibrato: None
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Thirty-second note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: MP, isGhostNote, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Thirty-second note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #8
+	Beat - BEGIN
+		dotted notes: true
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isDotted, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #15 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #8
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #9
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #10
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #11
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #12
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #13
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #14
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #15
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #16 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #16 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, Effects : Bend: Type: Bend, Value: 100Bend poits: 0: Position: 0, Hight: 0, Vibrato: None1: Position: 30, Hight: 100, Vibrato: None2: Position: 60, Hight: 100, Vibrato: None, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:6
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:6
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #8
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #9
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:6
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #10
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #11
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #12
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 3
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #13
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 3
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #14
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 3
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #16 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #8
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #9
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #10
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #11
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #12
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #13
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #14
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #15
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #17 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 1,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 1,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #17 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, Effects : Bend: Type: Bend, Value: 100Bend poits: 0: Position: 0, Hight: 0, Vibrato: None1: Position: 15, Hight: 100, Vibrato: None2: Position: 60, Hight: 100, Vibrato: None, nTuplet: 0, fret number:5
+		nTuplet: 3
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, Effects : Bend: Type: Bend, Value: 100Bend poits: 0: Position: 0, Hight: 0, Vibrato: None1: Position: 23, Hight: 100, Vibrato: None2: Position: 60, Hight: 100, Vibrato: None, nTuplet: 0, fret number:5
+		nTuplet: 3
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, Effects : Bend: Type: Bend, Value: 100Bend poits: 0: Position: 0, Hight: 0, Vibrato: None1: Position: 30, Hight: 100, Vibrato: None2: Position: 60, Hight: 100, Vibrato: None, nTuplet: 0, fret number:5
+		nTuplet: 3
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, Effects : Bend: Type: Bend, Value: 100Bend poits: 0: Position: 0, Hight: 0, Vibrato: None1: Position: 15, Hight: 50, Vibrato: None2: Position: 60, Hight: 100, Vibrato: None, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:6
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #17 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		MixTableChangebalance: changeDuration: 0, newValue: -1, chorus: changeDuration: 0, newValue: -1, instrument: changeDuration: 0, newValue: -1, phaser: changeDuration: 0, newValue: -1, reverb: changeDuration: 0, newValue: -1, tempo: applyToAllTracks:: true, changeDuration: 0, newValue: -1, tremolo: changeDuration: 0, newValue: -1, volume: changeDuration: 0, newValue: 9
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:47
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #8
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:47
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #9
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #10
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:47
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #11
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:45
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #12
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #13
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #18 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 1,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 1,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #18 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:6
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:8
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:6
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, Effects : Bend: Type: Bend, Value: 100Bend poits: 0: Position: 0, Hight: 0, Vibrato: None1: Position: 45, Hight: 100, Vibrato: None2: Position: 60, Hight: 100, Vibrato: None, nTuplet: 0, fret number:8
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #18 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:49
+			, Dynamic: FFF, nTuplet: 0, fret number:49
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,1,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #8
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #9
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #10
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #11
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #12
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #19 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 1,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 1,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #19 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, Effects : Bend: Type: Bend, Value: 100Bend poits: 0: Position: 0, Hight: 0, Vibrato: None1: Position: 30, Hight: 100, Vibrato: None2: Position: 60, Hight: 100, Vibrato: None, nTuplet: 0, fret number:8
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:8
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:6
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:8
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:8
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:8
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #19 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #8
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #9
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #10
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #11
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #12
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #13
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #14
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #15
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #20 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 1,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:1
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 1,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #20 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:11
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, Effects : Bend: Type: Bend, Value: 100Bend poits: 0: Position: 0, Hight: 0, Vibrato: None1: Position: 30, Hight: 100, Vibrato: None2: Position: 60, Hight: 100, Vibrato: None, nTuplet: 0, fret number:10
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:8
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:8
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:11
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:8
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:8
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:11
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #8
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:8
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #9
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:8
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,
+		Text: 
+	Beat - END
+	Beat #10
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:11
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #11
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:8
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,
+		Text: 
+	Beat - END
+	Beat #12
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #13
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:10
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,
+		Text: 
+	Beat - END
+	Beat #14
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #20 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #8
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #9
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #10
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #11
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #12
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #13
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: FFF, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #21 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 1,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 1,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #21 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:11
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:13
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, Effects : Bend: Type: Bend, Value: 100Bend poits: 0: Position: 0, Hight: 0, Vibrato: None1: Position: 20, Hight: 100, Vibrato: Slow2: Position: 60, Hight: 100, Vibrato: None, nTuplet: 0, fret number:13
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		null
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, Effects : Bend: Type: Bend, Value: 100Bend poits: 0: Position: 0, Hight: 0, Vibrato: None1: Position: 30, Hight: 100, Vibrato: None2: Position: 60, Hight: 100, Vibrato: NoneleftHandVibrato, nTuplet: 0, fret number:13
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #21 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+			, Dynamic: F, nTuplet: 0, fret number:35
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,1,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 3
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 3
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 3
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 6
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 6
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 6
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 6
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #8
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 6
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #9
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 6
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #10
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 6
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #11
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 6
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #12
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 6
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #13
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 6
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #14
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 6
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #15
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 6
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #16
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 3
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #17
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 3
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #18
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 3
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #19
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:38
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #22 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Half note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,3,2,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+

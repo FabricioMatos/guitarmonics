@@ -1,0 +1,11 @@
+D:\Guitarmonics\trunk\Fontes\SongEditor\GuitarProImport.Tests\bin\Debug\GuitarProImport.Tests.dll
+D:\Guitarmonics\trunk\Fontes\SongEditor\GuitarProImport.Tests\bin\Debug\GuitarProImport.Tests.pdb
+D:\Guitarmonics\trunk\Fontes\SongEditor\GuitarProImport.Tests\bin\Debug\ClassLibrary1.dll
+D:\Guitarmonics\trunk\Fontes\SongEditor\GuitarProImport.Tests\bin\Debug\Guitarmonics.SongData.dll
+D:\Guitarmonics\trunk\Fontes\SongEditor\GuitarProImport.Tests\bin\Debug\nunit.framework.dll
+D:\Guitarmonics\trunk\Fontes\SongEditor\GuitarProImport.Tests\bin\Debug\Guitarmonics.SongData.pdb
+D:\Guitarmonics\trunk\Fontes\SongEditor\GuitarProImport.Tests\bin\Debug\ClassLibrary1.pdb
+D:\Guitarmonics\trunk\Fontes\SongEditor\GuitarProImport.Tests\bin\Debug\nunit.framework.xml
+D:\Guitarmonics\trunk\Fontes\SongEditor\GuitarProImport.Tests\obj\Debug\ResolveAssemblyReference.cache
+D:\Guitarmonics\trunk\Fontes\SongEditor\GuitarProImport.Tests\obj\Debug\GuitarProImport.Tests.dll
+D:\Guitarmonics\trunk\Fontes\SongEditor\GuitarProImport.Tests\obj\Debug\GuitarProImport.Tests.pdb

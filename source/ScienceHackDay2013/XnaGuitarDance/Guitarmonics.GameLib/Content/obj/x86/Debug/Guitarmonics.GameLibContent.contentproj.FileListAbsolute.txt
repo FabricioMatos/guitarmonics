@@ -1,0 +1,8 @@
+D:\Guitarmonics-OpenSource\trunk\source\Game\Guitarmonics.GameLib\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Guitarmonics-OpenSource\trunk\source\Game\Guitarmonics.GameLib\Content\obj\x86\Debug\Audio\GuitarmonicsAudioClips.xml
+C:\$Pessoal\Guitarmonics-OpenSource\trunk\source\Game\Guitarmonics.GameLib\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\$Pessoal\Guitarmonics-OpenSource\trunk\source\Game\Guitarmonics.GameLib\Content\obj\x86\Debug\Audio\GuitarmonicsAudioClips.xml
+C:\1-Pessoal\Guitarmonics-OpenSource\trunk\source\Game\Guitarmonics.GameLib\Content\obj\x86\Debug\Audio\GuitarmonicsAudioClips.xml
+C:\1-Pessoal\Guitarmonics-OpenSource\trunk\source\Game\Guitarmonics.GameLib\Content\obj\x86\Debug\Guitarmonics.GameLibContent.contentprojResolveAssemblyReference.cache
+C:\1-Pessoal\Guitarmonics-OpenSource\trunk\source\ScienceHackDay2013\XnaGuitarDance\Guitarmonics.GameLib\Content\obj\x86\Debug\Audio\GuitarmonicsAudioClips.xml
+C:\1-Pessoal\Guitarmonics-OpenSource\trunk\source\ScienceHackDay2013\XnaGuitarDance\Guitarmonics.GameLib\Content\obj\x86\Debug\Guitarmonics.GameLibContent.contentprojResolveAssemblyReference.cache

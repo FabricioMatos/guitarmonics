@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <!-- Define que esse é um projeto de Teste -->
+    <ProjectTypeGuids>{3AC096D0-A1C2-E12C-1390-A8335801FDAB};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F6E254B7-44B1-425C-B036-680230208D37}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Guitarmonics.AudioLib.Tests</RootNamespace>
+    <AssemblyName>Guitarmonics.AudioLib.Tests</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <UpgradeBackupLocation />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>false</AllowUnsafeBlocks>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <PlatformTarget>x86</PlatformTarget>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Bass.Net, Version=2.4.4.4, Culture=neutral, PublicKeyToken=b7566c273e6ef480, processorArchitecture=MSIL" />
+    <Reference Include="nunit.framework, Version=2.5.1.9189, Culture=neutral, PublicKeyToken=96d09a1eb7f44a77, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\bin\NUnit\nunit.framework.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Common\AudioMaths.Test.cs" />
+    <Compile Include="Player\EstudoDaBibliotecaBASS.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Player\SongPlayer.BeatAndTickEvents.Test.cs" />
+    <Compile Include="Player\SongPlayer.PlayPauseStop.Test.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bass.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="bass_fx.dll">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
+    <Content Include="_FilesForTest\BaseBlues1-Clean.mp3" />
+    <Content Include="_FilesForTest\BaseBlues1-Dirty.mp3" />
+    <Content Include="_FilesForTest\FadeToBlack-Intro-Clean.mp3" />
+    <Content Include="_FilesForTest\IUseToLoveHer-Clean.mp3" />
+    <Content Include="_FilesForTest\Matt Redman.Facedown.Track 05.MP3" />
+    <Content Include="_FilesForTest\Matt-4Beats.wav" />
+    <Content Include="_FilesForTest\metallica-for_whom_the_bell_tolls%28linked%29.song.xml" />
+    <Content Include="_FilesForTest\metallica-for_whom_the_bell_tolls.mid" />
+    <Content Include="_FilesForTest\metallica-for_whom_the_bell_tolls.mp3" />
+    <Content Include="_FilesForTest\metallica-for_whom_the_bell_tolls.song.xml" />
+    <Content Include="_FilesForTest\MoneyForNothing-Intro-Clean.mp3" />
+    <Content Include="_FilesForTest\MoneyForNothing-Intro-Dirty.mp3" />
+    <Content Include="_FilesForTest\MusicXmlTest.xml" />
+    <Content Include="_FilesForTest\OneWay-Clean.mp3" />
+    <Content Include="_FilesForTest\Ping Hi.wav" />
+    <Content Include="_FilesForTest\Ping Low.wav" />
+    <Content Include="_FilesForTest\RiffBlues1-Clean.mp3" />
+    <Content Include="_FilesForTest\RiffBlues1-Dirty.mp3" />
+    <Content Include="_FilesForTest\SmallSample.wav" />
+    <Content Include="_FilesForTest\TesteOk.song.xml" />
+    <Content Include="_FilesForTest\TesteOk.sync.xml" />
+    <Content Include="_FilesForTest\twibmpg.ogg" />
+    <Content Include="_FilesForTest\WishYouWereHere.mp3" />
+    <Content Include="_FilesForTest\You-Give-Love-a-Bad-Name.mid" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <Compile Include="Analysis\AudioListener.Test.cs" />
+    <Compile Include="Analysis\GuitarChord.Test.cs" />
+    <Compile Include="Analysis\MusicalNote.Test.cs" />
+    <Compile Include="Analysis\NoteToFrequenceTable.Test.cs" />
+    <Compile Include="Analysis\SpectrumAnalyzer.Test.cs" />
+    <Compile Include="Common\BassWrapper.Tests.cs" />
+    <Compile Include="Common\MusicalNote.Test.cs" />
+    <Compile Include="Midi\EstudoDaBibliotecaToubSoundMidi.cs" />
+    <Compile Include="Midi\GuitarMidiImporter.Test.cs" />
+    <Compile Include="Midi\MidiImporter.Test.cs" />
+    <Compile Include="MusicConfigFiles\XmlScoreNotesReader.Test.cs" />
+    <Compile Include="MusicConfigFiles\XmlScoreReaderBase.Test.cs" />
+    <Compile Include="MusicConfigFiles\XmlScoreSyncReader.Test.cs" />
+    <Compile Include="MusicConfigFiles\XmlScoreWriter.Test.cs" />
+    <Compile Include="MusicConfigFiles\XmlScoreReader.Test.cs" />
+    <Compile Include="MusicXml\GuitarMusicXmlImporter.Test.cs" />
+    <Compile Include="Player\SongPlayer.TempoChanging.Test.cs" />
+    <Compile Include="TestConfig.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Guitarmonics.SongData\Guitarmonics.SongData.csproj">
+      <Project>{40005ACB-74F9-4DFE-8534-51C583D2907A}</Project>
+      <Name>Guitarmonics.SongData</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\AudioLib\Guitarmonics.AudioLib.csproj">
+      <Project>{9FABAB18-61F6-4A5F-B72B-9EBDC6F20C5A}</Project>
+      <Name>Guitarmonics.AudioLib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

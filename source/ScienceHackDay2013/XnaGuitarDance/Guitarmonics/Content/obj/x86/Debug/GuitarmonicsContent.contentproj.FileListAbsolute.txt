@@ -1,0 +1,3 @@
+D:\Guitarmonics-OpenSource\trunk\source\Game\Guitarmonics\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\$Pessoal\Guitarmonics-OpenSource\trunk\source\Game\Guitarmonics\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\1-Pessoal\Guitarmonics-OpenSource\trunk\source\ScienceHackDay2013\XnaGuitarDance\Guitarmonics\Content\obj\x86\Debug\GuitarmonicsContent.contentprojResolveAssemblyReference.cache

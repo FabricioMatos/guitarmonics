@@ -1,0 +1,780 @@
+GP - BEGIN
+	HEADER - BEGIN
+	Version: FICHIER GUITAR PRO v4.06
+	Title: Asa Branca
+	Subtitle: 
+	Interpret: Luiz Gonzaga
+	Album: 
+	Author of the song: Marco Antero
+	Copyright: 
+	Author of the piece: 
+	Instructions: 
+	Notes: 	Use triplet feel? false
+	
+	LYRICS - BEGIN
+	Track number: 0
+		Line no 0
+		Starts from measure 1
+		
+		Line no 1
+		Starts from measure 1
+		
+		Line no 2
+		Starts from measure 1
+		
+		Line no 3
+		Starts from measure 1
+		
+		Line no 4
+		Starts from measure 1
+		
+	LYRIC - END	Tempo: 147
+	Key: C
+	Octave: 0
+	Number of measures: 10
+	Number of tracks: 1
+	HEADER - END
+	MEASURES - BEGIN
+	Measure #0
+	Time Signture:4/4,Tonality: C
+	Measure #1
+	Time Signture:4/4,Tonality: C
+	Measure #2
+	Time Signture:4/4,Tonality: C
+	Measure #3
+	Time Signture:4/4,Tonality: C
+	Measure #4
+	Time Signture:4/4,Tonality: C
+	Measure #5
+	Time Signture:4/4,Tonality: C
+	Measure #6
+	Time Signture:4/4,Tonality: C
+	Measure #7
+	Time Signture:4/4,Tonality: C
+	Measure #8
+	Time Signture:4/4,Tonality: C
+	Measure #9
+	Time Signture:4/4,Tonality: C
+	MEASURES - END
+	TRACKS - BEGIN
+	Track #1
+	Drums track? false
+	12-stringed guitar track? false
+	Banjo track? false
+	Name: Trilha 1
+	Number of strings: 6
+	Tuning: 64 59 55 50 45 40 
+	Port: 1
+	Channel: 1
+	Channel effects: 2
+	Number of frets: 24
+	Height of the capo: 0
+	Color: (255, 0, 0)
+	TRACKS - END
+	MEASURE-TRACK PAIRS - BEGIN
+	Measure #1 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:2
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #2 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:2
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #3 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:2
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #4 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:2
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #5 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, Effects : hammerOn/PullOff, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #6 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:2
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #7 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:2
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #8 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:2
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:2
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #9 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, Effects : Let Ring, nTuplet: 0, fret number:2
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, Effects : Let Ring, nTuplet: 0, fret number:2
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #10 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	MEASURE-TRACK PAIRS - END
+	MIDI Channels - BEGIN
+	Port: 0
+	Channel: 0
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 1
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 2
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 3
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 4
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 5
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 6
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 7
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 8
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 9
+	Instrument: 0,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 10
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 11
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 12
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 13
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 14
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 15
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Port: 1
+	Channel: 0
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 1
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 2
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 3
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 4
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 5
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 6
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 7
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 8
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 9
+	Instrument: 0,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 10
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 11
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 12
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 13
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 14
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 15
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Port: 2
+	Channel: 0
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 1
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 2
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 3
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 4
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 5
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 6
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 7
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 8
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 9
+	Instrument: 0,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 10
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 11
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 12
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 13
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 14
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 15
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Port: 3
+	Channel: 0
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 1
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 2
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 3
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 4
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 5
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 6
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 7
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 8
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 9
+	Instrument: 0,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 10
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 11
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 12
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 13
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 14
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	Channel: 15
+	Instrument: 24,Volume: 13,Balance: 8,Chorus: 0,Reverb: 0,Phaser: 0,Tremolo: 0
+
+	MIDI Channels - END
+	CHORD DIAGRAMS - BEGIN
+	At this moment Chord Diagrams are not being read
+	CHORD DIAGRAMS - END
+GP - END

@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Sections>
+  <WaveBank Name="SoundEffects">Wave Bank
+{
+    Name = SoundEffects;
+    Xbox File = Xbox\SoundEffects.xwb;
+    Windows File = Win\SoundEffects.xwb;
+    Xbox Bank Path Edited = 0;
+    Windows Bank Path Edited = 0;
+    Seek Tables = 1;
+    Compression Preset Name = &lt;none&gt;;
+    Xbox Bank Last Modified Low = 0;
+    Xbox Bank Last Modified High = 0;
+    PC Bank Last Modified Low = 2577231661;
+    PC Bank Last Modified High = 30182728;
+    Header Last Modified Low = 0;
+    Header Last Modified High = 0;
+    Bank Last Revised Low = 2577171657;
+    Bank Last Revised High = 30182728;
+
+    Wave
+    {
+        Name = DoubleHit;
+        File = _Audio\DoubleHit.wav;
+        Build Settings Last Modified Low = 2520294783;
+        Build Settings Last Modified High = 30182718;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 4096;
+            Play Region Length = 163840;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 588054756;
+            Last Modified High = 30086929;
+        }
+    }
+
+    Wave
+    {
+        Name = SingleHit;
+        File = _Audio\SingleHit.wav;
+        Build Settings Last Modified Low = 2520304784;
+        Build Settings Last Modified High = 30182718;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 4096;
+            Play Region Length = 49152;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 3506793509;
+            Last Modified High = 30086934;
+        }
+    }
+
+    Wave
+    {
+        Name = SongTheme;
+        File = _Audio\SongTheme.wav;
+        Build Settings Last Modified Low = 2520314784;
+        Build Settings Last Modified High = 30182718;
+
+        Cache
+        {
+            Format Tag = 0;
+            Channels = 2;
+            Sampling Rate = 44100;
+            Bits Per Sample = 1;
+            Play Region Offset = 4096;
+            Play Region Length = 31260672;
+            Loop Region Offset = 0;
+            Loop Region Length = 0;
+            File Type = 1;
+            Last Modified Low = 170339226;
+            Last Modified High = 30086930;
+        }
+    }
+}
+
+</WaveBank>
+</Sections>

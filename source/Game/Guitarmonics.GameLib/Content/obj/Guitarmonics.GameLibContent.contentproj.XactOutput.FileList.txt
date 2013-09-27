@@ -1,0 +1,3 @@
+Content\Audio\GuitarmonicsAudioClips.xgs
+Content\Audio\SoundEffects.xwb
+Content\Audio\SoundBank.xsb

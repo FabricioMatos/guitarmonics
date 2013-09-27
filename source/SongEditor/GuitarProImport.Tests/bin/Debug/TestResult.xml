@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="D:\_GuitarMonics\svn-guitarmonics\trunk\Fontes\SongEditor\GuitarProImport.Tests\bin\Debug\GuitarProImport.Tests.dll" total="1" errors="0" failures="1" not-run="0" ignored="0" skipped="0" invalid="0" date="2010-03-16" time="07:47:33">
+  <environment nunit-version="2.5.0.9015" clr-version="2.0.50727.4200" os-version="Microsoft Windows NT 6.0.6002 Service Pack 2" platform="Win32NT" cwd="D:\_GuitarMonics\svn-guitarmonics\trunk\Fontes\SongEditor" machine-name="OSIAS-PC" user="osias" user-domain="QUALIDATA" />
+  <culture-info current-culture="pt-BR" current-uiculture="pt-BR" />
+  <test-suite name="D:\_GuitarMonics\svn-guitarmonics\trunk\Fontes\SongEditor\GuitarProImport.Tests\bin\Debug\GuitarProImport.Tests.dll" executed="True" success="False" time="0.072" asserts="0">
+    <results>
+      <test-suite name="GuitarProImport" executed="True" success="False" time="0.063" asserts="0">
+        <results>
+          <test-suite name="Tests" executed="True" success="False" time="0.062" asserts="0">
+            <results>
+              <test-suite name="ImportTests2" executed="True" success="False" time="0.061" asserts="0">
+                <results>
+                  <test-suite name="Tracks" executed="True" success="False" time="0.050" asserts="0">
+                    <results>
+                      <test-case name="GuitarProImport.Tests.ImportTests2.Tracks({ FileTried = o-rappa--me-deixa--guitarpro.gp4, SongName = Me Deixa, Subtitle =  })" executed="True" success="False" time="0.044" asserts="2">
+                        <failure>
+                          <message><![CDATA[  Track 0
+  Expected string length 8 but was 0. Strings differ at index 0.
+  Expected: "Guitarra"
+  But was:  <string.Empty>
+  -----------^
+]]></message>
+                          <stack-trace><![CDATA[em GuitarProImport.Tests.ImportTests2.Tracks(GpFileTestCase tc) na D:\_GuitarMonics\svn-guitarmonics\trunk\Fontes\SongEditor\GuitarProImport.Tests\ImportTests2.cs:linha 105
+]]></stack-trace>
+                        </failure>
+                      </test-case>
+                    </results>
+                  </test-suite>
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

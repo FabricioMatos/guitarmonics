@@ -1,0 +1,7637 @@
+GP - BEGIN
+	HEADER - BEGIN
+	Version: FICHIER GUITAR PRO v4.06
+	Title: Stairway To Heaven
+	Subtitle: 
+	Interpret: Led Zepplin
+	Album: Led Zepplin IV
+	Author of the song: Jimmy Page & Robert Plant
+	Copyright: 
+	Author of the piece: NamoRXelAD@one.lv
+	Instructions: 
+	Notes: 	Use triplet feel? false
+	
+	LYRICS - BEGIN
+	Track number: 0
+		Line no 0
+		Starts from measure 1
+		
+		Line no 1
+		Starts from measure 1
+		
+		Line no 2
+		Starts from measure 1
+		
+		Line no 3
+		Starts from measure 1
+		
+		Line no 4
+		Starts from measure 1
+		
+	LYRIC - END	Tempo: 105
+	Key: C
+	Octave: 0
+	Number of measures: 166
+	Number of tracks: 8
+	HEADER - END
+	MEASURES - BEGIN
+	Measure #0
+	Time Signture:4/4,Tonality: C
+	Measure #1
+	Time Signture:4/4,Tonality: C
+	Measure #2
+	Time Signture:4/4,Tonality: C
+	Measure #3
+	Time Signture:4/4,Tonality: C
+	Measure #4
+	Time Signture:4/4,Tonality: C
+	Measure #5
+	Time Signture:4/4,Tonality: C
+	Measure #6
+	Time Signture:4/4,Tonality: C
+	Measure #7
+	Time Signture:4/4,Tonality: C
+	Measure #8
+	Time Signture:4/4,Tonality: C
+	Measure #9
+	Time Signture:4/4,Tonality: C
+	Measure #10
+	Time Signture:4/4,Tonality: C
+	Measure #11
+	Time Signture:4/4,Tonality: C
+	Measure #12
+	Time Signture:4/4,Tonality: C
+	Measure #13
+	Time Signture:4/4,Tonality: C
+	Measure #14
+	Time Signture:4/4,Tonality: C
+	Measure #15
+	Time Signture:4/4,Tonality: C
+	Measure #16
+	Time Signture:4/4,Tonality: C
+	Measure #17
+	Time Signture:4/4,Tonality: C
+	Measure #18
+	Time Signture:4/4,Tonality: C
+	Measure #19
+	Time Signture:4/4,Tonality: C
+	Measure #20
+	Time Signture:4/4,Tonality: C
+	Measure #21
+	Time Signture:4/4,Tonality: C
+	Measure #22
+	Time Signture:4/4,Tonality: C
+	Measure #23
+	Time Signture:4/4,Tonality: C
+	Measure #24
+	Time Signture:4/4,Tonality: C
+	Measure #25
+	Time Signture:4/4,Tonality: C
+	Measure #26
+	Time Signture:4/4,Tonality: C
+	Measure #27
+	Time Signture:4/4,Tonality: C
+	Measure #28
+	Time Signture:4/4,Tonality: C
+	Measure #29
+	Time Signture:4/4,Tonality: C
+	Measure #30
+	Time Signture:4/4,Tonality: C
+	Measure #31
+	Time Signture:4/4,Tonality: C
+	Measure #32
+	Time Signture:4/4,Tonality: C
+	Measure #33
+	Time Signture:4/4,Tonality: C
+	Measure #34
+	Time Signture:4/4,Tonality: C
+	Measure #35
+	Time Signture:4/4,Tonality: C
+	Measure #36
+	Time Signture:4/4,Tonality: C
+	Measure #37
+	Time Signture:4/4,Tonality: C
+	Measure #38
+	Time Signture:4/4,Tonality: C
+	Measure #39
+	Time Signture:4/4,Tonality: C
+	Measure #40
+	Time Signture:4/4,Tonality: C
+	Measure #41
+	Time Signture:4/4,Tonality: C
+	Measure #42
+	Time Signture:4/4,Tonality: C
+	Measure #43
+	Time Signture:4/4,Tonality: C
+	Measure #44
+	Time Signture:4/4,Tonality: C
+	Measure #45
+	Time Signture:4/4,Tonality: C
+	Measure #46
+	Time Signture:4/4,Tonality: C
+	Measure #47
+	Time Signture:4/4,Tonality: C
+	Measure #48
+	Time Signture:4/4,Tonality: C
+	Measure #49
+	Time Signture:4/4,Tonality: C
+	Measure #50
+	Time Signture:4/4,Tonality: C
+	Measure #51
+	Time Signture:4/4,Tonality: C
+	Measure #52
+	Time Signture:4/4,Tonality: C
+	Measure #53
+	Time Signture:4/4,Tonality: C
+	Measure #54
+	Time Signture:4/4,Tonality: C
+	Measure #55
+	Time Signture:4/4,Tonality: C
+	Measure #56
+	Time Signture:4/4,Tonality: C
+	Measure #57
+	Time Signture:4/4,Tonality: C
+	Measure #58
+	Time Signture:4/4,Tonality: C
+	Measure #59
+	Time Signture:4/4,Tonality: C
+	Measure #60
+	Time Signture:4/4,Tonality: C
+	Measure #61
+	Time Signture:4/4,Tonality: C
+	Measure #62
+	Time Signture:4/4,Tonality: C
+	Measure #63
+	Time Signture:4/4,Tonality: C
+	Measure #64
+	Time Signture:4/4,Tonality: C
+	Measure #65
+	Time Signture:4/4,Tonality: C
+	Measure #66
+	Time Signture:4/4,Tonality: C
+	Measure #67
+	Time Signture:4/4,Tonality: C
+	Measure #68
+	Time Signture:4/4,Tonality: C
+	Measure #69
+	Time Signture:4/4,Tonality: C
+	Measure #70
+	Time Signture:4/4,Tonality: C
+	Measure #71
+	Time Signture:4/4,Tonality: C
+	Measure #72
+	Time Signture:4/4,Tonality: C
+	Measure #73
+	Time Signture:4/4,Tonality: C
+	Measure #74
+	Time Signture:4/4,Tonality: C
+	Measure #75
+	Time Signture:4/4,Tonality: C
+	Measure #76
+	Time Signture:4/4,Tonality: C
+	Measure #77
+	Time Signture:4/4,Tonality: C
+	Measure #78
+	Time Signture:4/4,Tonality: C
+	Measure #79
+	Time Signture:4/4,Tonality: C
+	Measure #80
+	Time Signture:4/4,Tonality: C
+	Measure #81
+	Time Signture:4/4,Tonality: C
+	Measure #82
+	Time Signture:4/4,Tonality: C
+	Measure #83
+	Time Signture:4/4,Tonality: C
+	Measure #84
+	Time Signture:4/4,Tonality: C
+	Measure #85
+	Time Signture:4/4,Tonality: C
+	Measure #86
+	Time Signture:4/4,Tonality: C
+	Measure #87
+	Time Signture:4/4,Tonality: C
+	Measure #88
+	Time Signture:4/4,Tonality: C
+	Measure #89
+	Time Signture:4/4,Tonality: C
+	Measure #90
+	Time Signture:4/4,Tonality: C
+	Measure #91
+	Time Signture:4/4,Tonality: C
+	Measure #92
+	Time Signture:4/4,Tonality: C
+	Measure #93
+	Time Signture:4/4,Tonality: C
+	Measure #94
+	Time Signture:4/4,Tonality: C
+	Measure #95
+	Time Signture:4/4,Tonality: C
+	Measure #96
+	Time Signture:4/4,Tonality: C
+	Measure #97
+	Time Signture:4/4,Tonality: C
+	Measure #98
+	Time Signture:4/4,Tonality: C
+	Measure #99
+	Time Signture:4/4,Tonality: C
+	Measure #100
+	Time Signture:4/4,Tonality: C
+	Measure #101
+	Time Signture:4/4,Tonality: C
+	Measure #102
+	Time Signture:4/4,Tonality: C
+	Measure #103
+	Time Signture:4/4,Tonality: C
+	Measure #104
+	Time Signture:4/4,Tonality: C
+	Measure #105
+	Time Signture:4/4,Tonality: C
+	Measure #106
+	Time Signture:4/4,Tonality: C
+	Measure #107
+	Time Signture:4/4,Tonality: C
+	Measure #108
+	Time Signture:4/4,Tonality: C
+	Measure #109
+	Time Signture:4/4,Tonality: C
+	Measure #110
+	Time Signture:3/4,Tonality: C
+	Measure #111
+	Time Signture:4/4,Tonality: C
+	Measure #112
+	Time Signture:5/4,Tonality: C
+	Measure #113
+	Time Signture:4/4,Tonality: C
+	Measure #114
+	Time Signture:7/8,Tonality: C
+	Measure #115
+	Time Signture:4/4,Tonality: C
+	Measure #116
+	Time Signture:4/4,Tonality: C
+	Measure #117
+	Time Signture:4/4,Tonality: C
+	Measure #118
+	Time Signture:4/4,Tonality: C
+	Measure #119
+	Time Signture:4/4,Tonality: C
+	Measure #120
+	Time Signture:4/4,Tonality: C
+	Measure #121
+	Time Signture:4/4,Tonality: C
+	Measure #122
+	Time Signture:4/4,Tonality: C
+	Measure #123
+	Time Signture:4/4,Tonality: C
+	Measure #124
+	Time Signture:4/4,Tonality: C
+	Measure #125
+	Time Signture:4/4,Tonality: C
+	Measure #126
+	Time Signture:4/4,Tonality: C
+	Measure #127
+	Time Signture:4/4,Tonality: C
+	Measure #128
+	Time Signture:4/4,Tonality: C
+	Measure #129
+	Time Signture:4/4,Tonality: C
+	Measure #130
+	Time Signture:4/4,Tonality: C
+	Measure #131
+	Time Signture:4/4,Tonality: C
+	Measure #132
+	Time Signture:4/4,Tonality: C
+	Measure #133
+	Time Signture:4/4,Tonality: C
+	Measure #134
+	Time Signture:4/4,Tonality: C
+	Measure #135
+	Time Signture:4/4,Tonality: C
+	Measure #136
+	Time Signture:4/4,Tonality: C
+	Measure #137
+	Time Signture:4/4,Tonality: C
+	Measure #138
+	Time Signture:4/4,Tonality: C
+	Measure #139
+	Time Signture:4/4,Tonality: C
+	Measure #140
+	Time Signture:4/4,Tonality: C
+	Measure #141
+	Time Signture:4/4,Tonality: C
+	Measure #142
+	Time Signture:4/4,Tonality: C
+	Measure #143
+	Time Signture:4/4,Tonality: C
+	Measure #144
+	Time Signture:4/4,Tonality: C
+	Measure #145
+	Time Signture:4/4,Tonality: C
+	Measure #146
+	Time Signture:4/4,Tonality: C
+	Measure #147
+	Time Signture:4/4,Tonality: C
+	Measure #148
+	Time Signture:4/4,Tonality: C
+	Measure #149
+	Time Signture:4/4,Tonality: C
+	Measure #150
+	Time Signture:4/4,Tonality: C
+	Measure #151
+	Time Signture:4/4,Tonality: C
+	Measure #152
+	Time Signture:4/4,Tonality: C
+	Measure #153
+	Time Signture:4/4,Tonality: C
+	Measure #154
+	Time Signture:4/4,Tonality: C
+	Measure #155
+	Time Signture:4/4,Tonality: C
+	Measure #156
+	Time Signture:4/4,Tonality: C
+	Measure #157
+	Time Signture:4/4,Tonality: C
+	Measure #158
+	Time Signture:4/4,Tonality: C
+	Measure #159
+	Time Signture:4/4,Tonality: C
+	Measure #160
+	Time Signture:4/4,Tonality: C
+	Measure #161
+	Time Signture:4/4,Tonality: C
+	Measure #162
+	Time Signture:4/4,Tonality: C
+	Measure #163
+	Time Signture:4/4,Tonality: C
+	Measure #164
+	Time Signture:4/4,Tonality: C
+	Measure #165
+	Time Signture:4/4,Tonality: C
+	MEASURES - END
+	TRACKS - BEGIN
+	Track #1
+	Drums track? false
+	12-stringed guitar track? false
+	Banjo track? false
+	Name: Guitare 1
+	Number of strings: 6
+	Tuning: 64 59 55 50 45 40 
+	Port: 1
+	Channel: 1
+	Channel effects: 2
+	Number of frets: 24
+	Height of the capo: 0
+	Color: (255, 0, 0)
+	Track #2
+	Drums track? false
+	12-stringed guitar track? true
+	Banjo track? false
+	Name: Guitare 2 (12 cordes)
+	Number of strings: 6
+	Tuning: 64 59 55 50 45 40 
+	Port: 1
+	Channel: 3
+	Channel effects: 4
+	Number of frets: 24
+	Height of the capo: 0
+	Color: (255, 0, 0)
+	Track #3
+	Drums track? false
+	12-stringed guitar track? false
+	Banjo track? false
+	Name: Arrangement flutes
+	Number of strings: 6
+	Tuning: 64 59 55 50 45 40 
+	Port: 1
+	Channel: 5
+	Channel effects: 6
+	Number of frets: 24
+	Height of the capo: 0
+	Color: (255, 0, 0)
+	Track #4
+	Drums track? false
+	12-stringed guitar track? false
+	Banjo track? false
+	Name: Guitare électrique
+	Number of strings: 6
+	Tuning: 64 59 55 50 45 40 
+	Port: 1
+	Channel: 7
+	Channel effects: 8
+	Number of frets: 24
+	Height of the capo: 0
+	Color: (255, 0, 0)
+	Track #5
+	Drums track? false
+	12-stringed guitar track? false
+	Banjo track? false
+	Name: Guitare solo
+	Number of strings: 6
+	Tuning: 64 59 55 50 45 40 
+	Port: 1
+	Channel: 11
+	Channel effects: 12
+	Number of frets: 24
+	Height of the capo: 0
+	Color: (255, 0, 0)
+	Track #6
+	Drums track? false
+	12-stringed guitar track? false
+	Banjo track? false
+	Name: Guitare slide
+	Number of strings: 6
+	Tuning: 64 59 55 50 45 40 
+	Port: 1
+	Channel: 13
+	Channel effects: 14
+	Number of frets: 24
+	Height of the capo: 0
+	Color: (255, 0, 0)
+	Track #7
+	Drums track? false
+	12-stringed guitar track? false
+	Banjo track? false
+	Name: Basse
+	Number of strings: 4
+	Tuning: 43 38 33 28 
+	Port: 1
+	Channel: 15
+	Channel effects: 16
+	Number of frets: 24
+	Height of the capo: 0
+	Color: (255, 255, 0)
+	Track #8
+	Drums track? true
+	12-stringed guitar track? false
+	Banjo track? false
+	Name: Percussions
+	Number of strings: 6
+	Tuning: 0 0 0 0 0 0 
+	Port: 1
+	Channel: 10
+	Channel effects: 10
+	Number of frets: 99
+	Height of the capo: 0
+	Color: (0, 0, 255)
+	TRACKS - END
+	MEASURE-TRACK PAIRS - BEGIN
+	Measure #1 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		isSharp: true
+		Root: User
+		ChordType: M
+		NineElevenThirteen: 0
+		Bass: C
+		Tonality: perfect
+		AddedNote: 0
+		Name: Am
+		Tonality Five: perfect
+		Tonality Nine: perfect
+		Tonality Eleven: perfect
+		Base Fret: 5
+		Frets From Left to Right (including the 7th guitar string): -1,-1,-1,7,5,5,5
+		IsChordFingerinDisplayed: true
+		Fingering: Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+		Num Barres: 0
+		Frets of Barres: 0,0,0,0,0
+		Barres Starts: 0,0,0,0,0
+		Barres Ends: 0,0,0,0,0
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		MixTableChangebalance: changeDuration: 0, newValue: -1, chorus: changeDuration: 0, newValue: -1, instrument: changeDuration: 0, newValue: -1, phaser: changeDuration: 0, newValue: -1, reverb: changeDuration: 0, newValue: -1, tempo: applyToAllTracks:: true, changeDuration: 0, newValue: 75, tremolo: changeDuration: 0, newValue: -1, volume: changeDuration: 0, newValue: -1
+		Notes: 
+			, Dynamic: F, Effects : Let Ring, nTuplet: 0, fret number:7
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, Effects : Let Ring, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, Effects : Let Ring, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,3,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		isSharp: true
+		Root: User
+		ChordType: M
+		NineElevenThirteen: 0
+		Bass: C
+		Tonality: perfect
+		AddedNote: 0
+		Name: E5+/G#
+		Tonality Five: perfect
+		Tonality Nine: perfect
+		Tonality Eleven: perfect
+		Base Fret: 5
+		Frets From Left to Right (including the 7th guitar string): -1,-1,-1,6,5,5,7
+		IsChordFingerinDisplayed: true
+		Fingering: Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+		Num Barres: 0
+		Frets of Barres: 0,0,0,0,0
+		Barres Starts: 0,0,0,0,0
+		Barres Ends: 0,0,0,0,0
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, Effects : Let Ring, nTuplet: 0, fret number:7
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, Effects : Let Ring, nTuplet: 0, fret number:6
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,4,3,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, Effects : Let Ring, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, Effects : Let Ring, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,4,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:7
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,4,3,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #1 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #1 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #1 Track #3
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #1 Track #4
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #1 Track #5
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #1 Track #6
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #1 Track #7
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #2 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		isSharp: true
+		Root: User
+		ChordType: M
+		NineElevenThirteen: 0
+		Bass: C
+		Tonality: perfect
+		AddedNote: 0
+		Name: C/G
+		Tonality Five: perfect
+		Tonality Nine: perfect
+		Tonality Eleven: perfect
+		Base Fret: 5
+		Frets From Left to Right (including the 7th guitar string): -1,-1,-1,5,5,5,8
+		IsChordFingerinDisplayed: true
+		Fingering: Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+		Num Barres: 0
+		Frets of Barres: 0,0,0,0,0
+		Barres Starts: 0,0,0,0,0
+		Barres Ends: 0,0,0,0,0
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, Effects : Let Ring, nTuplet: 0, fret number:8
+			, Dynamic: F, Effects : Let Ring, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,3,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,4,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:8
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,3,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		isSharp: true
+		Root: User
+		ChordType: M
+		NineElevenThirteen: 0
+		Bass: C
+		Tonality: perfect
+		AddedNote: 0
+		Name: D/F#
+		Tonality Five: perfect
+		Tonality Nine: perfect
+		Tonality Eleven: perfect
+		Base Fret: 1
+		Frets From Left to Right (including the 7th guitar string): -1,-1,-1,4,2,3,2
+		IsChordFingerinDisplayed: true
+		Fingering: Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+		Num Barres: 0
+		Frets of Barres: 0,0,0,0,0
+		Barres Starts: 0,0,0,0,0
+		Barres Ends: 0,0,0,0,0
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, Effects : Let Ring, nTuplet: 0, fret number:2
+			, Dynamic: F, Effects : Let Ring, nTuplet: 0, fret number:4
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,3,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:2
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,4,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:2
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,4,3,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #2 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #2 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #2 Track #3
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #2 Track #4
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #2 Track #5
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #2 Track #6
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #2 Track #7
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #3 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		isSharp: true
+		Root: User
+		ChordType: M
+		NineElevenThirteen: 0
+		Bass: C
+		Tonality: perfect
+		AddedNote: 0
+		Name: FM7
+		Tonality Five: perfect
+		Tonality Nine: perfect
+		Tonality Eleven: perfect
+		Base Fret: 1
+		Frets From Left to Right (including the 7th guitar string): -1,-1,-1,3,2,1,-1
+		IsChordFingerinDisplayed: true
+		Fingering: Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+		Num Barres: 0
+		Frets of Barres: 0,0,0,0,0
+		Barres Starts: 0,0,0,0,0
+		Barres Ends: 0,0,0,0,0
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, Effects : Let Ring, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,3,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, Effects : Let Ring, nTuplet: 0, fret number:1
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, Effects : Let Ring, nTuplet: 0, fret number:2
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,4,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, Effects : Let Ring, nTuplet: 0, fret number:1
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, Effects : Let Ring, nTuplet: 0, fret number:1
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,4,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, Effects : Let Ring, nTuplet: 0, fret number:2
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,4,3,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #3 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #3 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #3 Track #3
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #3 Track #4
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #3 Track #5
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #3 Track #6
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #3 Track #7
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #4 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		isSharp: true
+		Root: User
+		ChordType: M
+		NineElevenThirteen: 0
+		Bass: C
+		Tonality: perfect
+		AddedNote: 0
+		Name: G/B
+		Tonality Five: perfect
+		Tonality Nine: perfect
+		Tonality Eleven: perfect
+		Base Fret: 1
+		Frets From Left to Right (including the 7th guitar string): -1,-1,-1,-1,-1,-1,-1
+		IsChordFingerinDisplayed: true
+		Fingering: Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+		Num Barres: 0
+		Frets of Barres: 0,0,0,0,0
+		Barres Starts: 0,0,0,0,0
+		Barres Ends: 0,0,0,0,0
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:2
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,4,2,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		isSharp: true
+		Root: User
+		ChordType: M
+		NineElevenThirteen: 0
+		Bass: C
+		Tonality: perfect
+		AddedNote: 0
+		Name: Am
+		Tonality Five: perfect
+		Tonality Nine: perfect
+		Tonality Eleven: perfect
+		Base Fret: 1
+		Frets From Left to Right (including the 7th guitar string): -1,-1,-1,-1,-1,-1,-1
+		IsChordFingerinDisplayed: true
+		Fingering: Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+		Num Barres: 0
+		Frets of Barres: 0,0,0,0,0
+		Barres Starts: 0,0,0,0,0
+		Barres Ends: 0,0,0,0,0
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:1
+			, Dynamic: F, nTuplet: 0, fret number:2
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,4,2,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: true
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isDotted, nTuplet: 0, fret number:1
+			, Dynamic: F, isDotted, nTuplet: 0, fret number:2
+			, Dynamic: F, isDotted, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,4,2,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:2
+			, Dynamic: F, Effects : Slide: Shift slide, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,2,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:8
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:7
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #4 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #4 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:10
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:12
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Half note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:12
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #4 Track #3
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #4 Track #4
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #4 Track #5
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #4 Track #6
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #4 Track #7
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #5 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		MixTableChangebalance: changeDuration: 0, newValue: -1, chorus: changeDuration: 0, newValue: -1, instrument: changeDuration: 0, newValue: -1, phaser: changeDuration: 0, newValue: -1, reverb: changeDuration: 0, newValue: -1, tempo: applyToAllTracks:: true, changeDuration: 0, newValue: 76, tremolo: changeDuration: 0, newValue: -1, volume: changeDuration: 0, newValue: -1
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:7
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,4,3,2,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		isSharp: true
+		Root: User
+		ChordType: M
+		NineElevenThirteen: 0
+		Bass: C
+		Tonality: perfect
+		AddedNote: 0
+		Name: E+5/G#
+		Tonality Five: perfect
+		Tonality Nine: perfect
+		Tonality Eleven: perfect
+		Base Fret: 1
+		Frets From Left to Right (including the 7th guitar string): -1,-1,-1,-1,-1,-1,-1
+		IsChordFingerinDisplayed: true
+		Fingering: Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+		Num Barres: 0
+		Frets of Barres: 0,0,0,0,0
+		Barres Starts: 0,0,0,0,0
+		Barres Ends: 0,0,0,0,0
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:7
+			, Dynamic: F, nTuplet: 0, fret number:6
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,3,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,4,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:7
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,4,3,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #5 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #5 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Half note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:12
+			, Dynamic: F, nTuplet: 0, fret number:13
+			, Dynamic: F, nTuplet: 0, fret number:9
+			, Dynamic: F, nTuplet: 0, fret number:12
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,4,2,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Half note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:11
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #5 Track #3
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #5 Track #4
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #5 Track #5
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #5 Track #6
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #5 Track #7
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #6 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		isSharp: true
+		Root: User
+		ChordType: M
+		NineElevenThirteen: 0
+		Bass: C
+		Tonality: perfect
+		AddedNote: 0
+		Name: C/G
+		Tonality Five: perfect
+		Tonality Nine: perfect
+		Tonality Eleven: perfect
+		Base Fret: 1
+		Frets From Left to Right (including the 7th guitar string): -1,-1,-1,-1,-1,-1,-1
+		IsChordFingerinDisplayed: true
+		Fingering: Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+		Num Barres: 0
+		Frets of Barres: 0,0,0,0,0
+		Barres Starts: 0,0,0,0,0
+		Barres Ends: 0,0,0,0,0
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:8
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,3,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,4,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:8
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,4,3,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		isSharp: true
+		Root: User
+		ChordType: M
+		NineElevenThirteen: 0
+		Bass: C
+		Tonality: perfect
+		AddedNote: 0
+		Name: D/F#
+		Tonality Five: perfect
+		Tonality Nine: perfect
+		Tonality Eleven: perfect
+		Base Fret: 1
+		Frets From Left to Right (including the 7th guitar string): -1,-1,-1,-1,-1,-1,-1
+		IsChordFingerinDisplayed: true
+		Fingering: Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+		Num Barres: 0
+		Frets of Barres: 0,0,0,0,0
+		Barres Starts: 0,0,0,0,0
+		Barres Ends: 0,0,0,0,0
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:2
+			, Dynamic: F, nTuplet: 0, fret number:4
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,3,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:2
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,4,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:2
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,4,3,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #6 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #6 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Half note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:8
+			, Dynamic: F, nTuplet: 0, fret number:10
+			, Dynamic: F, nTuplet: 0, fret number:9
+			, Dynamic: F, nTuplet: 0, fret number:10
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,4,2,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: true
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isDotted, nTuplet: 0, fret number:10
+			, Dynamic: F, isDotted, nTuplet: 0, fret number:7
+			, Dynamic: F, isDotted, nTuplet: 0, fret number:9
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,4,2,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #6 Track #3
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #6 Track #4
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #6 Track #5
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #6 Track #6
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #6 Track #7
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #7 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		isSharp: true
+		Root: User
+		ChordType: M
+		NineElevenThirteen: 0
+		Bass: C
+		Tonality: perfect
+		AddedNote: 0
+		Name: FM7
+		Tonality Five: perfect
+		Tonality Nine: perfect
+		Tonality Eleven: perfect
+		Base Fret: 1
+		Frets From Left to Right (including the 7th guitar string): -1,-1,-1,-1,-1,-1,-1
+		IsChordFingerinDisplayed: true
+		Fingering: Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+		Num Barres: 0
+		Frets of Barres: 0,0,0,0,0
+		Barres Starts: 0,0,0,0,0
+		Barres Ends: 0,0,0,0,0
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,3,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:1
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:2
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,4,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:1
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:1
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,4,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:2
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,4,3,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #7 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #7 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:8
+			, Dynamic: F, nTuplet: 0, fret number:10
+			, Dynamic: F, nTuplet: 0, fret number:10
+			, Dynamic: F, nTuplet: 0, fret number:8
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,3,2,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #7 Track #3
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #7 Track #4
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #7 Track #5
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #7 Track #6
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #7 Track #7
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #8 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		isSharp: true
+		Root: User
+		ChordType: M
+		NineElevenThirteen: 0
+		Bass: C
+		Tonality: perfect
+		AddedNote: 0
+		Name: G/B
+		Tonality Five: perfect
+		Tonality Nine: perfect
+		Tonality Eleven: perfect
+		Base Fret: 1
+		Frets From Left to Right (including the 7th guitar string): -1,-1,-1,-1,-1,-1,-1
+		IsChordFingerinDisplayed: true
+		Fingering: Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+		Num Barres: 0
+		Frets of Barres: 0,0,0,0,0
+		Barres Starts: 0,0,0,0,0
+		Barres Ends: 0,0,0,0,0
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:2
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,4,2,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		isSharp: true
+		Root: User
+		ChordType: M
+		NineElevenThirteen: 0
+		Bass: C
+		Tonality: perfect
+		AddedNote: 0
+		Name: Am
+		Tonality Five: perfect
+		Tonality Nine: perfect
+		Tonality Eleven: perfect
+		Base Fret: 1
+		Frets From Left to Right (including the 7th guitar string): -1,-1,-1,-1,-1,-1,-1
+		IsChordFingerinDisplayed: true
+		Fingering: Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+		Num Barres: 0
+		Frets of Barres: 0,0,0,0,0
+		Barres Starts: 0,0,0,0,0
+		Barres Ends: 0,0,0,0,0
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:1
+			, Dynamic: F, nTuplet: 0, fret number:2
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,4,2,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Half note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:1
+			, Dynamic: F, nTuplet: 0, fret number:2
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,4,2,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:2
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #8 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #8 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:10
+			, Dynamic: F, nTuplet: 0, fret number:12
+			, Dynamic: F, nTuplet: 0, fret number:12
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,2,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:12
+			, Dynamic: F, nTuplet: 0, fret number:13
+			, Dynamic: F, nTuplet: 0, fret number:12
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,2,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Half note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:12
+			, Dynamic: F, nTuplet: 0, fret number:13
+			, Dynamic: F, nTuplet: 0, fret number:12
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,2,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #8 Track #3
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #8 Track #4
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #8 Track #5
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #8 Track #6
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #8 Track #7
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #9 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		isSharp: true
+		Root: User
+		ChordType: M
+		NineElevenThirteen: 0
+		Bass: C
+		Tonality: perfect
+		AddedNote: 0
+		Name: C
+		Tonality Five: perfect
+		Tonality Nine: perfect
+		Tonality Eleven: perfect
+		Base Fret: 1
+		Frets From Left to Right (including the 7th guitar string): -1,-1,-1,-1,-1,-1,-1
+		IsChordFingerinDisplayed: true
+		Fingering: Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+		Num Barres: 0
+		Frets of Barres: 0,0,0,0,0
+		Barres Starts: 0,0,0,0,0
+		Barres Ends: 0,0,0,0,0
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:2
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,4,3,2,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		isSharp: true
+		Root: User
+		ChordType: M
+		NineElevenThirteen: 0
+		Bass: C
+		Tonality: perfect
+		AddedNote: 0
+		Name: D
+		Tonality Five: perfect
+		Tonality Nine: perfect
+		Tonality Eleven: perfect
+		Base Fret: 1
+		Frets From Left to Right (including the 7th guitar string): -1,-1,-1,-1,-1,-1,-1
+		IsChordFingerinDisplayed: true
+		Fingering: Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+		Num Barres: 0
+		Frets of Barres: 0,0,0,0,0
+		Barres Starts: 0,0,0,0,0
+		Barres Ends: 0,0,0,0,0
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:2
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,3,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:2
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,4,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:2
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,4,3,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #9 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #9 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Half note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+			, Dynamic: F, nTuplet: 0, fret number:5
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,4,2,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Half note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:7
+			, Dynamic: F, nTuplet: 0, fret number:7
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,4,2,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #9 Track #3
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #9 Track #4
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #9 Track #5
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #9 Track #6
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #9 Track #7
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #10 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		isSharp: true
+		Root: User
+		ChordType: M
+		NineElevenThirteen: 0
+		Bass: C
+		Tonality: perfect
+		AddedNote: 0
+		Name: FM7
+		Tonality Five: perfect
+		Tonality Nine: perfect
+		Tonality Eleven: perfect
+		Base Fret: 1
+		Frets From Left to Right (including the 7th guitar string): -1,-1,-1,-1,-1,-1,-1
+		IsChordFingerinDisplayed: true
+		Fingering: Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+		Num Barres: 0
+		Frets of Barres: 0,0,0,0,0
+		Barres Starts: 0,0,0,0,0
+		Barres Ends: 0,0,0,0,0
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,3,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:1
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:2
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,4,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,4,3,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		isSharp: true
+		Root: User
+		ChordType: M
+		NineElevenThirteen: 0
+		Bass: C
+		Tonality: perfect
+		AddedNote: 0
+		Name: Am
+		Tonality Five: perfect
+		Tonality Nine: perfect
+		Tonality Eleven: perfect
+		Base Fret: 1
+		Frets From Left to Right (including the 7th guitar string): -1,-1,-1,-1,-1,-1,-1
+		IsChordFingerinDisplayed: true
+		Fingering: Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+		Num Barres: 0
+		Frets of Barres: 0,0,0,0,0
+		Barres Starts: 0,0,0,0,0
+		Barres Ends: 0,0,0,0,0
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,2,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:2
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,2,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:2
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #10 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #10 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+			, Dynamic: F, nTuplet: 0, fret number:5
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,4,3,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+			, Dynamic: F, nTuplet: 0, fret number:7
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,4,3,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:6
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+			, Dynamic: F, nTuplet: 0, fret number:5
+			, Dynamic: F, nTuplet: 0, fret number:2
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,4,3,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+			, Dynamic: F, nTuplet: 0, fret number:3
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,3,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #10 Track #3
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #10 Track #4
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #10 Track #5
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #10 Track #6
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #10 Track #7
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #11 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		isSharp: true
+		Root: User
+		ChordType: M
+		NineElevenThirteen: 0
+		Bass: C
+		Tonality: perfect
+		AddedNote: 0
+		Name: C
+		Tonality Five: perfect
+		Tonality Nine: perfect
+		Tonality Eleven: perfect
+		Base Fret: 1
+		Frets From Left to Right (including the 7th guitar string): -1,-1,-1,-1,-1,-1,-1
+		IsChordFingerinDisplayed: true
+		Fingering: Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+		Num Barres: 0
+		Frets of Barres: 0,0,0,0,0
+		Barres Starts: 0,0,0,0,0
+		Barres Ends: 0,0,0,0,0
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:1
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,2,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:2
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,3,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:1
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,4,3,2,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		isSharp: true
+		Root: User
+		ChordType: M
+		NineElevenThirteen: 0
+		Bass: C
+		Tonality: perfect
+		AddedNote: 0
+		Name: G
+		Tonality Five: perfect
+		Tonality Nine: perfect
+		Tonality Eleven: perfect
+		Base Fret: 1
+		Frets From Left to Right (including the 7th guitar string): -1,-1,-1,-1,-1,-1,-1
+		IsChordFingerinDisplayed: true
+		Fingering: Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+		Num Barres: 0
+		Frets of Barres: 0,0,0,0,0
+		Barres Starts: 0,0,0,0,0
+		Barres Ends: 0,0,0,0,0
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,1,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,4,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,4,1,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #11 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #11 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: true
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isDotted, nTuplet: 0, fret number:3
+			, Dynamic: F, isDotted, nTuplet: 0, fret number:5
+			, Dynamic: F, isDotted, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,3,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: true
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isDotted, nTuplet: 0, fret number:3
+			, Dynamic: F, isDotted, nTuplet: 0, fret number:3
+			, Dynamic: F, isDotted, nTuplet: 0, fret number:4
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,4,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #11 Track #3
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #11 Track #4
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #11 Track #5
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #11 Track #6
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #11 Track #7
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #12 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		isSharp: true
+		Root: User
+		ChordType: M
+		NineElevenThirteen: 0
+		Bass: C
+		Tonality: perfect
+		AddedNote: 0
+		Name: D
+		Tonality Five: perfect
+		Tonality Nine: perfect
+		Tonality Eleven: perfect
+		Base Fret: 1
+		Frets From Left to Right (including the 7th guitar string): -1,-1,-1,-1,-1,-1,-1
+		IsChordFingerinDisplayed: true
+		Fingering: Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+		Num Barres: 0
+		Frets of Barres: 0,0,0,0,0
+		Barres Starts: 0,0,0,0,0
+		Barres Ends: 0,0,0,0,0
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, Effects : hammerOn/PullOff, nTuplet: 0, fret number:3
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,3,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:2
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,3,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:2
+			, Dynamic: F, nTuplet: 0, fret number:3
+			, Dynamic: F, nTuplet: 0, fret number:2
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,4,3,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Half note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:2
+			, Dynamic: F, nTuplet: 0, fret number:3
+			, Dynamic: F, nTuplet: 0, fret number:2
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,4,3,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:2
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #12 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #12 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:7
+			, Dynamic: F, nTuplet: 0, fret number:8
+			, Dynamic: F, nTuplet: 0, fret number:7
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,4,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+			, Dynamic: F, nTuplet: 0, fret number:7
+			, Dynamic: F, nTuplet: 0, fret number:7
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,4,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Half note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+			, Dynamic: F, nTuplet: 0, fret number:7
+			, Dynamic: F, nTuplet: 0, fret number:7
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,4,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #12 Track #3
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #12 Track #4
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #12 Track #5
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #12 Track #6
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #12 Track #7
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #13 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		isSharp: true
+		Root: User
+		ChordType: M
+		NineElevenThirteen: 0
+		Bass: C
+		Tonality: perfect
+		AddedNote: 0
+		Name: C
+		Tonality Five: perfect
+		Tonality Nine: perfect
+		Tonality Eleven: perfect
+		Base Fret: 1
+		Frets From Left to Right (including the 7th guitar string): -1,-1,-1,-1,-1,-1,-1
+		IsChordFingerinDisplayed: true
+		Fingering: Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+		Num Barres: 0
+		Frets of Barres: 0,0,0,0,0
+		Barres Starts: 0,0,0,0,0
+		Barres Ends: 0,0,0,0,0
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:2
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:1
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,4,3,2,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		isSharp: true
+		Root: User
+		ChordType: M
+		NineElevenThirteen: 0
+		Bass: C
+		Tonality: perfect
+		AddedNote: 0
+		Name: D
+		Tonality Five: perfect
+		Tonality Nine: perfect
+		Tonality Eleven: perfect
+		Base Fret: 1
+		Frets From Left to Right (including the 7th guitar string): -1,-1,-1,-1,-1,-1,-1
+		IsChordFingerinDisplayed: true
+		Fingering: Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+		Num Barres: 0
+		Frets of Barres: 0,0,0,0,0
+		Barres Starts: 0,0,0,0,0
+		Barres Ends: 0,0,0,0,0
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:2
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,3,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:2
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,4,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:2
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,4,3,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #13 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #13 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:9
+			, Dynamic: F, nTuplet: 0, fret number:10
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,3,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:10
+			, Dynamic: F, nTuplet: 0, fret number:10
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,3,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:8
+			, Dynamic: F, nTuplet: 0, fret number:9
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,3,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:8
+			, Dynamic: F, nTuplet: 0, fret number:9
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,3,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:7
+			, Dynamic: F, nTuplet: 0, fret number:7
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,3,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,3,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+			, Dynamic: F, nTuplet: 0, fret number:4
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,3,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #13 Track #3
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #13 Track #4
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #13 Track #5
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #13 Track #6
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #13 Track #7
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #14 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		isSharp: true
+		Root: User
+		ChordType: M
+		NineElevenThirteen: 0
+		Bass: C
+		Tonality: perfect
+		AddedNote: 0
+		Name: FM7
+		Tonality Five: perfect
+		Tonality Nine: perfect
+		Tonality Eleven: perfect
+		Base Fret: 1
+		Frets From Left to Right (including the 7th guitar string): -1,-1,-1,-1,-1,-1,-1
+		IsChordFingerinDisplayed: true
+		Fingering: Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+		Num Barres: 0
+		Frets of Barres: 0,0,0,0,0
+		Barres Starts: 0,0,0,0,0
+		Barres Ends: 0,0,0,0,0
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,3,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:1
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:2
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,4,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,4,3,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		isSharp: true
+		Root: User
+		ChordType: M
+		NineElevenThirteen: 0
+		Bass: C
+		Tonality: perfect
+		AddedNote: 0
+		Name: Am
+		Tonality Five: perfect
+		Tonality Nine: perfect
+		Tonality Eleven: perfect
+		Base Fret: 1
+		Frets From Left to Right (including the 7th guitar string): -1,-1,-1,-1,-1,-1,-1
+		IsChordFingerinDisplayed: true
+		Fingering: Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+		Num Barres: 0
+		Frets of Barres: 0,0,0,0,0
+		Barres Starts: 0,0,0,0,0
+		Barres Ends: 0,0,0,0,0
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,2,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:2
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,2,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:2
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,4,2,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #14 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #14 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+			, Dynamic: F, nTuplet: 0, fret number:5
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,4,3,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:8
+			, Dynamic: F, nTuplet: 0, fret number:7
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,4,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:7
+			, Dynamic: F, nTuplet: 0, fret number:7
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,4,3,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:8
+			, Dynamic: F, nTuplet: 0, fret number:9
+			, Dynamic: F, nTuplet: 0, fret number:7
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,4,3,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:10
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #14 Track #3
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #14 Track #4
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #14 Track #5
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #14 Track #6
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #14 Track #7
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #15 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		isSharp: true
+		Root: User
+		ChordType: M
+		NineElevenThirteen: 0
+		Bass: C
+		Tonality: perfect
+		AddedNote: 0
+		Name: C
+		Tonality Five: perfect
+		Tonality Nine: perfect
+		Tonality Eleven: perfect
+		Base Fret: 1
+		Frets From Left to Right (including the 7th guitar string): -1,-1,-1,-1,-1,-1,-1
+		IsChordFingerinDisplayed: true
+		Fingering: Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+		Num Barres: 0
+		Frets of Barres: 0,0,0,0,0
+		Barres Starts: 0,0,0,0,0
+		Barres Ends: 0,0,0,0,0
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:2
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:1
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,4,3,2,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		isSharp: true
+		Root: User
+		ChordType: M
+		NineElevenThirteen: 0
+		Bass: C
+		Tonality: perfect
+		AddedNote: 0
+		Name: D
+		Tonality Five: perfect
+		Tonality Nine: perfect
+		Tonality Eleven: perfect
+		Base Fret: 1
+		Frets From Left to Right (including the 7th guitar string): -1,-1,-1,-1,-1,-1,-1
+		IsChordFingerinDisplayed: true
+		Fingering: Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+		Num Barres: 0
+		Frets of Barres: 0,0,0,0,0
+		Barres Starts: 0,0,0,0,0
+		Barres Ends: 0,0,0,0,0
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:2
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:2
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,4,3,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #15 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #15 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Half note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:12
+			, Dynamic: F, nTuplet: 0, fret number:12
+			, Dynamic: F, nTuplet: 0, fret number:10
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,4,3,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: true
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isDotted, nTuplet: 0, fret number:10
+			, Dynamic: F, isDotted, nTuplet: 0, fret number:11
+			, Dynamic: F, isDotted, nTuplet: 0, fret number:12
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,4,3,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #15 Track #3
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #15 Track #4
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #15 Track #5
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #15 Track #6
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #15 Track #7
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #16 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		isSharp: true
+		Root: User
+		ChordType: M
+		NineElevenThirteen: 0
+		Bass: C
+		Tonality: perfect
+		AddedNote: 0
+		Name: FM7
+		Tonality Five: perfect
+		Tonality Nine: perfect
+		Tonality Eleven: perfect
+		Base Fret: 1
+		Frets From Left to Right (including the 7th guitar string): -1,-1,-1,-1,-1,-1,-1
+		IsChordFingerinDisplayed: true
+		Fingering: Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+		Num Barres: 0
+		Frets of Barres: 0,0,0,0,0
+		Barres Starts: 0,0,0,0,0
+		Barres Ends: 0,0,0,0,0
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:1
+			, Dynamic: F, nTuplet: 0, fret number:2
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,4,3,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:1
+			, Dynamic: F, nTuplet: 0, fret number:2
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,4,3,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Half note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:1
+			, Dynamic: F, nTuplet: 0, fret number:2
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,4,3,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #16 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #16 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:8
+			, Dynamic: F, nTuplet: 0, fret number:9
+			, Dynamic: F, nTuplet: 0, fret number:10
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,4,3,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:10
+			, Dynamic: F, nTuplet: 0, fret number:10
+			, Dynamic: F, nTuplet: 0, fret number:10
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,4,3,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Half note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:10
+			, Dynamic: F, nTuplet: 0, fret number:10
+			, Dynamic: F, nTuplet: 0, fret number:10
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,4,3,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #16 Track #3
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #16 Track #4
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #16 Track #5
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #16 Track #6
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #16 Track #7
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #17 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		isSharp: true
+		Root: User
+		ChordType: M
+		NineElevenThirteen: 0
+		Bass: C
+		Tonality: perfect
+		AddedNote: 0
+		Name: Am
+		Tonality Five: perfect
+		Tonality Nine: perfect
+		Tonality Eleven: perfect
+		Base Fret: 1
+		Frets From Left to Right (including the 7th guitar string): -1,-1,-1,-1,-1,-1,-1
+		IsChordFingerinDisplayed: true
+		Fingering: Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+		Num Barres: 0
+		Frets of Barres: 0,0,0,0,0
+		Barres Starts: 0,0,0,0,0
+		Barres Ends: 0,0,0,0,0
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		MixTableChangebalance: changeDuration: 0, newValue: -1, chorus: changeDuration: 0, newValue: -1, instrument: changeDuration: 0, newValue: -1, phaser: changeDuration: 0, newValue: -1, reverb: changeDuration: 0, newValue: -1, tempo: applyToAllTracks:: true, changeDuration: 0, newValue: 77, tremolo: changeDuration: 0, newValue: -1, volume: changeDuration: 0, newValue: -1
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:7
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,4,3,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		isSharp: true
+		Root: User
+		ChordType: M
+		NineElevenThirteen: 0
+		Bass: C
+		Tonality: perfect
+		AddedNote: 0
+		Name: E5+/G#
+		Tonality Five: perfect
+		Tonality Nine: perfect
+		Tonality Eleven: perfect
+		Base Fret: 1
+		Frets From Left to Right (including the 7th guitar string): -1,-1,-1,-1,-1,-1,-1
+		IsChordFingerinDisplayed: true
+		Fingering: Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+		Num Barres: 0
+		Frets of Barres: 0,0,0,0,0
+		Barres Starts: 0,0,0,0,0
+		Barres Ends: 0,0,0,0,0
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:7
+			, Dynamic: F, nTuplet: 0, fret number:6
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,3,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,4,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:7
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,4,3,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #17 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #17 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Half note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:12
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Half note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:11
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #17 Track #3
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #17 Track #4
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #17 Track #5
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #17 Track #6
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #17 Track #7
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #18 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		isSharp: true
+		Root: User
+		ChordType: M
+		NineElevenThirteen: 0
+		Bass: C
+		Tonality: perfect
+		AddedNote: 0
+		Name: C/G
+		Tonality Five: perfect
+		Tonality Nine: perfect
+		Tonality Eleven: perfect
+		Base Fret: 1
+		Frets From Left to Right (including the 7th guitar string): -1,-1,-1,-1,-1,-1,-1
+		IsChordFingerinDisplayed: true
+		Fingering: Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+		Num Barres: 0
+		Frets of Barres: 0,0,0,0,0
+		Barres Starts: 0,0,0,0,0
+		Barres Ends: 0,0,0,0,0
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:8
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,3,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,4,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:8
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,4,3,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		isSharp: true
+		Root: User
+		ChordType: M
+		NineElevenThirteen: 0
+		Bass: C
+		Tonality: perfect
+		AddedNote: 0
+		Name: D/F#
+		Tonality Five: perfect
+		Tonality Nine: perfect
+		Tonality Eleven: perfect
+		Base Fret: 1
+		Frets From Left to Right (including the 7th guitar string): -1,-1,-1,-1,-1,-1,-1
+		IsChordFingerinDisplayed: true
+		Fingering: Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+		Num Barres: 0
+		Frets of Barres: 0,0,0,0,0
+		Barres Starts: 0,0,0,0,0
+		Barres Ends: 0,0,0,0,0
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:2
+			, Dynamic: F, nTuplet: 0, fret number:4
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,3,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:2
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,4,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:2
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,4,3,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #18 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #18 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Half note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:10
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Half note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:9
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #18 Track #3
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #18 Track #4
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #18 Track #5
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #18 Track #6
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #18 Track #7
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #19 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		isSharp: true
+		Root: User
+		ChordType: M
+		NineElevenThirteen: 0
+		Bass: C
+		Tonality: perfect
+		AddedNote: 0
+		Name: FM7
+		Tonality Five: perfect
+		Tonality Nine: perfect
+		Tonality Eleven: perfect
+		Base Fret: 1
+		Frets From Left to Right (including the 7th guitar string): -1,-1,-1,-1,-1,-1,-1
+		IsChordFingerinDisplayed: true
+		Fingering: Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+		Num Barres: 0
+		Frets of Barres: 0,0,0,0,0
+		Barres Starts: 0,0,0,0,0
+		Barres Ends: 0,0,0,0,0
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,3,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:1
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:2
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,4,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:1
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,4,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:1
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:2
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,4,3,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #19 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #19 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: true
+		duration: Half note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isDotted, nTuplet: 0, fret number:8
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #19 Track #3
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #19 Track #4
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #19 Track #5
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #19 Track #6
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #19 Track #7
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #20 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		isSharp: true
+		Root: User
+		ChordType: M
+		NineElevenThirteen: 0
+		Bass: C
+		Tonality: perfect
+		AddedNote: 0
+		Name: G/B
+		Tonality Five: perfect
+		Tonality Nine: perfect
+		Tonality Eleven: perfect
+		Base Fret: 1
+		Frets From Left to Right (including the 7th guitar string): -1,-1,-1,-1,-1,-1,-1
+		IsChordFingerinDisplayed: true
+		Fingering: Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+		Num Barres: 0
+		Frets of Barres: 0,0,0,0,0
+		Barres Starts: 0,0,0,0,0
+		Barres Ends: 0,0,0,0,0
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:2
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,4,2,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		isSharp: true
+		Root: User
+		ChordType: M
+		NineElevenThirteen: 0
+		Bass: C
+		Tonality: perfect
+		AddedNote: 0
+		Name: Am
+		Tonality Five: perfect
+		Tonality Nine: perfect
+		Tonality Eleven: perfect
+		Base Fret: 1
+		Frets From Left to Right (including the 7th guitar string): -1,-1,-1,-1,-1,-1,-1
+		IsChordFingerinDisplayed: true
+		Fingering: Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+		Num Barres: 0
+		Frets of Barres: 0,0,0,0,0
+		Barres Starts: 0,0,0,0,0
+		Barres Ends: 0,0,0,0,0
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:1
+			, Dynamic: F, nTuplet: 0, fret number:2
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,4,2,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Half note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:1
+			, Dynamic: F, nTuplet: 0, fret number:2
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,4,2,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #20 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #20 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:10
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:12
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Half note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:12
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #20 Track #3
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #20 Track #4
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #20 Track #5
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #20 Track #6
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #20 Track #7
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #21 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		MixTableChangebalance: changeDuration: 0, newValue: -1, chorus: changeDuration: 0, newValue: -1, instrument: changeDuration: 0, newValue: -1, phaser: changeDuration: 0, newValue: -1, reverb: changeDuration: 0, newValue: -1, tempo: applyToAllTracks:: true, changeDuration: 0, newValue: 78, tremolo: changeDuration: 0, newValue: -1, volume: changeDuration: 0, newValue: -1
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:7
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,4,3,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		isSharp: true
+		Root: User
+		ChordType: M
+		NineElevenThirteen: 0
+		Bass: C
+		Tonality: perfect
+		AddedNote: 0
+		Name: E5+/G#
+		Tonality Five: perfect
+		Tonality Nine: perfect
+		Tonality Eleven: perfect
+		Base Fret: 1
+		Frets From Left to Right (including the 7th guitar string): -1,-1,-1,-1,-1,-1,-1
+		IsChordFingerinDisplayed: true
+		Fingering: Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+		Num Barres: 0
+		Frets of Barres: 0,0,0,0,0
+		Barres Starts: 0,0,0,0,0
+		Barres Ends: 0,0,0,0,0
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:7
+			, Dynamic: F, nTuplet: 0, fret number:6
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,3,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,4,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:7
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,4,3,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #21 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #21 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Half note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:12
+			, Dynamic: F, nTuplet: 0, fret number:13
+			, Dynamic: F, nTuplet: 0, fret number:9
+			, Dynamic: F, nTuplet: 0, fret number:12
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,4,2,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Half note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:11
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #21 Track #3
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #21 Track #4
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #21 Track #5
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #21 Track #6
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #21 Track #7
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #22 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		isSharp: true
+		Root: User
+		ChordType: M
+		NineElevenThirteen: 0
+		Bass: C
+		Tonality: perfect
+		AddedNote: 0
+		Name: C/G
+		Tonality Five: perfect
+		Tonality Nine: perfect
+		Tonality Eleven: perfect
+		Base Fret: 1
+		Frets From Left to Right (including the 7th guitar string): -1,-1,-1,-1,-1,-1,-1
+		IsChordFingerinDisplayed: true
+		Fingering: Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+		Num Barres: 0
+		Frets of Barres: 0,0,0,0,0
+		Barres Starts: 0,0,0,0,0
+		Barres Ends: 0,0,0,0,0
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:8
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,3,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:5
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,4,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:8
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,4,3,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		isSharp: true
+		Root: User
+		ChordType: M
+		NineElevenThirteen: 0
+		Bass: C
+		Tonality: perfect
+		AddedNote: 0
+		Name: D/F#
+		Tonality Five: perfect
+		Tonality Nine: perfect
+		Tonality Eleven: perfect
+		Base Fret: 1
+		Frets From Left to Right (including the 7th guitar string): -1,-1,-1,-1,-1,-1,-1
+		IsChordFingerinDisplayed: true
+		Fingering: Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+		Num Barres: 0
+		Frets of Barres: 0,0,0,0,0
+		Barres Starts: 0,0,0,0,0
+		Barres Ends: 0,0,0,0,0
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:2
+			, Dynamic: F, nTuplet: 0, fret number:4
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,3,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:2
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,4,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:2
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,4,3,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #22 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #22 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Half note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:8
+			, Dynamic: F, nTuplet: 0, fret number:10
+			, Dynamic: F, nTuplet: 0, fret number:9
+			, Dynamic: F, nTuplet: 0, fret number:10
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,4,2,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: true
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isDotted, nTuplet: 0, fret number:10
+			, Dynamic: F, isDotted, nTuplet: 0, fret number:7
+			, Dynamic: F, isDotted, nTuplet: 0, fret number:9
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,4,2,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #22 Track #3
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #22 Track #4
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #22 Track #5
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #22 Track #6
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #22 Track #7
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #23 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		isSharp: true
+		Root: User
+		ChordType: M
+		NineElevenThirteen: 0
+		Bass: C
+		Tonality: perfect
+		AddedNote: 0
+		Name: FM7
+		Tonality Five: perfect
+		Tonality Nine: perfect
+		Tonality Eleven: perfect
+		Base Fret: 1
+		Frets From Left to Right (including the 7th guitar string): -1,-1,-1,-1,-1,-1,-1
+		IsChordFingerinDisplayed: true
+		Fingering: Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+		Num Barres: 0
+		Frets of Barres: 0,0,0,0,0
+		Barres Starts: 0,0,0,0,0
+		Barres Ends: 0,0,0,0,0
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,3,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:1
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:2
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,4,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:1
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:1
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,4,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:2
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,4,3,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #23 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #23 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:8
+			, Dynamic: F, nTuplet: 0, fret number:10
+			, Dynamic: F, nTuplet: 0, fret number:10
+			, Dynamic: F, nTuplet: 0, fret number:8
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,3,2,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #23 Track #3
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #23 Track #4
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #23 Track #5
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #23 Track #6
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #23 Track #7
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #24 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		isSharp: true
+		Root: User
+		ChordType: M
+		NineElevenThirteen: 0
+		Bass: C
+		Tonality: perfect
+		AddedNote: 0
+		Name: G/B
+		Tonality Five: perfect
+		Tonality Nine: perfect
+		Tonality Eleven: perfect
+		Base Fret: 1
+		Frets From Left to Right (including the 7th guitar string): -1,-1,-1,-1,-1,-1,-1
+		IsChordFingerinDisplayed: true
+		Fingering: Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+		Num Barres: 0
+		Frets of Barres: 0,0,0,0,0
+		Barres Starts: 0,0,0,0,0
+		Barres Ends: 0,0,0,0,0
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:2
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,4,2,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		isSharp: true
+		Root: User
+		ChordType: M
+		NineElevenThirteen: 0
+		Bass: C
+		Tonality: perfect
+		AddedNote: 0
+		Name: Am
+		Tonality Five: perfect
+		Tonality Nine: perfect
+		Tonality Eleven: perfect
+		Base Fret: 1
+		Frets From Left to Right (including the 7th guitar string): -1,-1,-1,-1,-1,-1,-1
+		IsChordFingerinDisplayed: true
+		Fingering: Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+		Num Barres: 0
+		Frets of Barres: 0,0,0,0,0
+		Barres Starts: 0,0,0,0,0
+		Barres Ends: 0,0,0,0,0
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:1
+			, Dynamic: F, nTuplet: 0, fret number:2
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,4,2,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Half note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:1
+			, Dynamic: F, nTuplet: 0, fret number:2
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,4,2,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:2
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #24 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #24 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:10
+			, Dynamic: F, nTuplet: 0, fret number:12
+			, Dynamic: F, nTuplet: 0, fret number:12
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,2,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:12
+			, Dynamic: F, nTuplet: 0, fret number:13
+			, Dynamic: F, nTuplet: 0, fret number:12
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,2,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Half note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:12
+			, Dynamic: F, nTuplet: 0, fret number:13
+			, Dynamic: F, nTuplet: 0, fret number:12
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,2,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #24 Track #3
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #24 Track #4
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #24 Track #5
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #24 Track #6
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #24 Track #7
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #25 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		isSharp: true
+		Root: User
+		ChordType: M
+		NineElevenThirteen: 0
+		Bass: C
+		Tonality: perfect
+		AddedNote: 0
+		Name: C
+		Tonality Five: perfect
+		Tonality Nine: perfect
+		Tonality Eleven: perfect
+		Base Fret: 1
+		Frets From Left to Right (including the 7th guitar string): -1,-1,-1,-1,-1,-1,-1
+		IsChordFingerinDisplayed: true
+		Fingering: Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+		Num Barres: 0
+		Frets of Barres: 0,0,0,0,0
+		Barres Starts: 0,0,0,0,0
+		Barres Ends: 0,0,0,0,0
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		MixTableChangebalance: changeDuration: 0, newValue: -1, chorus: changeDuration: 0, newValue: -1, instrument: changeDuration: 0, newValue: -1, phaser: changeDuration: 0, newValue: -1, reverb: changeDuration: 0, newValue: -1, tempo: applyToAllTracks:: true, changeDuration: 0, newValue: 79, tremolo: changeDuration: 0, newValue: -1, volume: changeDuration: 0, newValue: -1
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:2
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:1
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,4,3,2,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		isSharp: true
+		Root: User
+		ChordType: M
+		NineElevenThirteen: 0
+		Bass: C
+		Tonality: perfect
+		AddedNote: 0
+		Name: D
+		Tonality Five: perfect
+		Tonality Nine: perfect
+		Tonality Eleven: perfect
+		Base Fret: 1
+		Frets From Left to Right (including the 7th guitar string): -1,-1,-1,-1,-1,-1,-1
+		IsChordFingerinDisplayed: true
+		Fingering: Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+		Num Barres: 0
+		Frets of Barres: 0,0,0,0,0
+		Barres Starts: 0,0,0,0,0
+		Barres Ends: 0,0,0,0,0
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:2
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,3,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:2
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,4,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:2
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,4,3,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #25 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #25 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Half note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:10
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Half note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:12
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #25 Track #3
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #25 Track #4
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #25 Track #5
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #25 Track #6
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #25 Track #7
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #26 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		isSharp: true
+		Root: User
+		ChordType: M
+		NineElevenThirteen: 0
+		Bass: C
+		Tonality: perfect
+		AddedNote: 0
+		Name: FM7
+		Tonality Five: perfect
+		Tonality Nine: perfect
+		Tonality Eleven: perfect
+		Base Fret: 1
+		Frets From Left to Right (including the 7th guitar string): -1,-1,-1,-1,-1,-1,-1
+		IsChordFingerinDisplayed: true
+		Fingering: Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+		Num Barres: 0
+		Frets of Barres: 0,0,0,0,0
+		Barres Starts: 0,0,0,0,0
+		Barres Ends: 0,0,0,0,0
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,3,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:1
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:2
+		nTuplet: 3
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 3
+		Rest Beat:false
+		Strings played: 6,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Sixteenth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 3
+		Rest Beat:false
+		Strings played: 6,5,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:1
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,4,3,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		isSharp: true
+		Root: User
+		ChordType: M
+		NineElevenThirteen: 0
+		Bass: C
+		Tonality: perfect
+		AddedNote: 0
+		Name: Am
+		Tonality Five: perfect
+		Tonality Nine: perfect
+		Tonality Eleven: perfect
+		Base Fret: 1
+		Frets From Left to Right (including the 7th guitar string): -1,-1,-1,-1,-1,-1,-1
+		IsChordFingerinDisplayed: true
+		Fingering: Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+		Num Barres: 0
+		Frets of Barres: 0,0,0,0,0
+		Barres Starts: 0,0,0,0,0
+		Barres Ends: 0,0,0,0,0
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,2,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:2
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,2,
+		Text: 
+	Beat - END
+	Beat #8
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 2,
+		Text: 
+	Beat - END
+	Beat #9
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:2
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,2,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #26 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #26 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:12
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:10
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:9
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Quarter note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:10
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:12
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #26 Track #3
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #26 Track #4
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #26 Track #5
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #26 Track #6
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #26 Track #7
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #27 Track #0
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		isSharp: true
+		Root: User
+		ChordType: M
+		NineElevenThirteen: 0
+		Bass: C
+		Tonality: perfect
+		AddedNote: 0
+		Name: C
+		Tonality Five: perfect
+		Tonality Nine: perfect
+		Tonality Eleven: perfect
+		Base Fret: 1
+		Frets From Left to Right (including the 7th guitar string): -1,-1,-1,-1,-1,-1,-1
+		IsChordFingerinDisplayed: true
+		Fingering: Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+		Num Barres: 0
+		Frets of Barres: 0,0,0,0,0
+		Barres Starts: 0,0,0,0,0
+		Barres Ends: 0,0,0,0,0
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:1
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,2,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 4,
+		Text: 
+	Beat - END
+	Beat #2
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:2
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,3,
+		Text: 
+	Beat - END
+	Beat #3
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:1
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,4,3,2,
+		Text: 
+	Beat - END
+	Beat #4
+	Beat - BEGIN
+		isSharp: true
+		Root: User
+		ChordType: M
+		NineElevenThirteen: 0
+		Bass: C
+		Tonality: perfect
+		AddedNote: 0
+		Name: G
+		Tonality Five: perfect
+		Tonality Nine: perfect
+		Tonality Eleven: perfect
+		Base Fret: 1
+		Frets From Left to Right (including the 7th guitar string): -1,-1,-1,-1,-1,-1,-1
+		IsChordFingerinDisplayed: true
+		Fingering: Unknown,Unknown,Unknown,Unknown,Unknown,Unknown,Unknown
+		Num Barres: 0
+		Frets of Barres: 0,0,0,0,0
+		Barres Starts: 0,0,0,0,0
+		Barres Ends: 0,0,0,0,0
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+			, Dynamic: F, nTuplet: 0, fret number:3
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,1,
+		Text: 
+	Beat - END
+	Beat #5
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 5,
+		Text: 
+	Beat - END
+	Beat #6
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,4,
+		Text: 
+	Beat - END
+	Beat #7
+	Beat - BEGIN
+		dotted notes: false
+		duration: Eighth note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:3
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+			, Dynamic: F, isTieNote:, nTuplet: 0, fret number:0
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 6,5,4,1,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #27 Track #1
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #27 Track #2
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Half note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:14
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Beat #1
+	Beat - BEGIN
+		dotted notes: false
+		duration: Half note
+		Empty Beat:false
+		Notes: 
+			, Dynamic: F, nTuplet: 0, fret number:12
+		nTuplet: 0
+		Rest Beat:false
+		Strings played: 3,
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #27 Track #3
+	Measure/Track Pair - BEGIN
+	Beat #0
+	Beat - BEGIN
+		dotted notes: false
+		duration: Whole note
+		Empty Beat:false
+		Notes: 
+		nTuplet: 0
+		Rest Beat:true
+		Strings played: 
+		Text: 
+	Beat - END
+	Measure/Track Pair - END
+
+	Measure #27 Track #4

@@ -1,0 +1,15 @@
+D:\Guitarmonics-OpenSource\trunk\source\Guitarmonics.SongData\bin\Debug\Guitarmonics.SongData.dll
+D:\Guitarmonics-OpenSource\trunk\source\Guitarmonics.SongData\bin\Debug\Guitarmonics.SongData.pdb
+D:\Guitarmonics-OpenSource\trunk\source\Guitarmonics.SongData\obj\Debug\ResolveAssemblyReference.cache
+D:\Guitarmonics-OpenSource\trunk\source\Guitarmonics.SongData\obj\Debug\Guitarmonics.SongData.dll
+D:\Guitarmonics-OpenSource\trunk\source\Guitarmonics.SongData\obj\Debug\Guitarmonics.SongData.pdb
+C:\$Pessoal\Guitarmonics-OpenSource\trunk\source\Guitarmonics.SongData\bin\Debug\Guitarmonics.SongData.dll
+C:\$Pessoal\Guitarmonics-OpenSource\trunk\source\Guitarmonics.SongData\bin\Debug\Guitarmonics.SongData.pdb
+C:\$Pessoal\Guitarmonics-OpenSource\trunk\source\Guitarmonics.SongData\obj\Debug\ResolveAssemblyReference.cache
+C:\$Pessoal\Guitarmonics-OpenSource\trunk\source\Guitarmonics.SongData\obj\Debug\Guitarmonics.SongData.dll
+C:\$Pessoal\Guitarmonics-OpenSource\trunk\source\Guitarmonics.SongData\obj\Debug\Guitarmonics.SongData.pdb
+C:\1-Pessoal\Guitarmonics-OpenSource\trunk\source\Guitarmonics.SongData\bin\Debug\Guitarmonics.SongData.dll
+C:\1-Pessoal\Guitarmonics-OpenSource\trunk\source\Guitarmonics.SongData\bin\Debug\Guitarmonics.SongData.pdb
+C:\1-Pessoal\Guitarmonics-OpenSource\trunk\source\Guitarmonics.SongData\obj\Debug\Guitarmonics.SongData.dll
+C:\1-Pessoal\Guitarmonics-OpenSource\trunk\source\Guitarmonics.SongData\obj\Debug\Guitarmonics.SongData.pdb
+C:\1-Pessoal\Guitarmonics-OpenSource\trunk\source\Guitarmonics.SongData\obj\Debug\Guitarmonics.SongData.csprojResolveAssemblyReference.cache
